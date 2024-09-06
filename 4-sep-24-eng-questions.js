@@ -46,7 +46,7 @@ const questions = [
   },
   {
     numb: 5,
-    question: "Passive Voice of ” Sana is washing her clothes” is _______________________.",
+    question: "Passive Voice of ” Sana is washing her clothes” is ______.",
     answer: "Her clothes are being washed by Sana.",
     options: [
       "Her clothes are being washed by Sana.",
@@ -101,7 +101,7 @@ const questions = [
     },
   {
     numb: 10,
-    question: "Passive Voice of “I saw him leaving the house” is _________________.",
+    question: "Passive Voice of “I saw him leaving the house” is ______.",
     answer: "He was seen leaving the house by me.",
     options: [
       "He was seen leaving the house by me.",
@@ -156,7 +156,7 @@ const questions = [
   },
   {
     numb: 15,
-    question: "Passive Voice of “The boy did not break the glass” is ______________________.",
+    question: "Passive Voice of “The boy did not break the glass” is __________.",
     answer: "The glass was not broken by the boy.",
     options: [
       "The glass was not broken by the boy.",
@@ -244,7 +244,7 @@ const questions = [
   },
   {
     numb: 23,
-    question: "Passive Voice of “None likes him” is ___________________.",
+    question: "Passive Voice of “None likes him” is _______.",
     answer: "He is liked by none.",
     options: [
       "He has not been liked by anyone.",
@@ -321,7 +321,7 @@ const questions = [
   },
   {
     numb: 30,
-    question: "Passive voice of “They broke up the table for firewood” is _____________________?",
+    question: "Passive voice of “They broke up the table for firewood” is _________?",
     answer: "The table was broken up for firewood by them.",
     options: [
       "The table broke up for firewood by them.",
