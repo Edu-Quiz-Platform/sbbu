@@ -203,8 +203,8 @@ const questions = [
     question: "Zafar Ahmed Chaudhry was the first Chief of Air Staff of _______ . ",
     answer: "Air Force",
     options: [
-      "Pak Army ",
-      "Air Force ",
+      "Pak Army",
+      "Air Force",
       "Navy",
       "N.O.T"
     ]
