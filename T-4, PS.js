@@ -204,7 +204,7 @@ const questions = [
     answer: "Air Force",
     options: [
       "Pak Army ",
-      "Air Force ",
+      "Air Force",
       "Navy",
       "N.O.T"
     ]
