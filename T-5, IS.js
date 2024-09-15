@@ -25,7 +25,7 @@ const questions = [
   {
     numb: 3,
     question: "Hazrat ___________ proposed the compilation of Holy Quran. ",
-    answer: "1",
+    answer: "Umar",
     options: [
       "Usman",
       "Umar",
@@ -139,7 +139,7 @@ const questions = [
     options: [
       "2 days ",
       "3 days",
-      "7 or 9 days ",
+      "7 or 9 days",
       "10 days "
     ]
   },
@@ -226,7 +226,7 @@ const questions = [
     answer: "No deity except Allah",
     options: [
       "The hereafter life",
-      "No deity except Allah ",
+      "No deity except Allah",
       "Prophethood",
       "Angels"
     ]
