@@ -49,7 +49,7 @@ document.addEventListener('mousedown', function(e) {
 /* Whatsapp Icon */
 function openWhatsApp() {
             // Redirect to WhatsApp with a pre-filled message
-            window.location.href = "https://wa.me/03033032032?text=Hi! I just visited your website *https://sbbu-prep.github.io/edu-quiz* and would like to get more information."; 
+            window.location.href = "https://wa.me/03033032032?text=Hi! I just visited your website *https://edu-quiz-platform.github.io/sbbu/* and would like to get more information."; 
         }
         function showWhatsAppText() {
             var whatsappText = document.getElementById("whatsappText");
