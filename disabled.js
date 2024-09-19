@@ -55,6 +55,6 @@ function openWhatsApp() {
             var whatsappText = document.getElementById("whatsappText");
             whatsappText.style.display = "block";
             setTimeout(function() {
-                window.location.href = "https://wa.me/03033032032?text=Hi! I just visited your website *https://sbbu-prep.github.io/edu-quiz* and would like to get more information."; // Replace with your WhatsApp number
+                window.location.href = "https://wa.me/03033032032?text=Hi! I just visited your website *https://edu-quiz-platform.github.io/sbbu/* and would like to get more information."; // Replace with your WhatsApp number
             }, 2000); // Delay of 2 seconds before redirecting
         }
