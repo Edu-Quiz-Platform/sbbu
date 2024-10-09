@@ -55,8 +55,6 @@ function showSearchBox() {
                     resultElement.classList.add("mcq-card");
                     resultElement.innerHTML = `<h3>${item.question}</h3>
                                                <p>Answer: <strong>${item.description}</strong></p>
-                                               <p>Date: <strong>${item.date}</strong></p>
-                                               <p>Added By: <strong>${item.author}</strong></p>
                                                <p>Subject: <strong>${item.category}</strong></p>`;
                     resultsContainer.appendChild(resultElement);
                 });
