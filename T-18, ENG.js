@@ -1,7 +1,7 @@
 // Array of questions with options and correct answers
 const questions = [
   {
-    numb: 21,
+    numb: 1,
     question: "Synonym of “benchmark” is _______?",
     answer: "reference point",
     options: [
@@ -12,7 +12,7 @@ const questions = [
     ]
   },
   {
-    numb: 22,
+    numb: 2,
     question: "Synonym of “barrage” is _________?",
     answer: "bombardment",
     options: [
@@ -23,7 +23,7 @@ const questions = [
     ]
   },
   {
-    numb: 23,
+    numb: 3,
     question: "Synonym of “vermin” is _________?",
     answer: "objectionable pets",
     options: [
@@ -34,7 +34,7 @@ const questions = [
     ]
   },
   {
-    numb: 24,
+    numb: 4,
     question: "Synonym of “hew” is _________?",
     answer: "chop",
     options: [
@@ -45,7 +45,7 @@ const questions = [
     ]
   },
   {
-    numb: 25,
+    numb: 5,
     question: "Synonym of “overture” is _________?",
     answer: "proposal",
     options: [
@@ -56,7 +56,7 @@ const questions = [
     ]
   },
   {
-    numb: 26,
+    numb: 6,
     question: "Synonym of “nomenclature” is _________?",
     answer: "terminology",
     options: [
@@ -67,7 +67,7 @@ const questions = [
     ]
   },
   {
-    numb: 27,
+    numb: 7,
     question: "Synonym of “eschew” is _________?",
     answer: "to avoid",
     options: [
@@ -78,7 +78,7 @@ const questions = [
     ]
   },
   {
-    numb: 28,
+    numb: 8,
     question: "Synonym of “redoubt” is _________?",
     answer: "fortification",
     options: [
@@ -89,7 +89,7 @@ const questions = [
     ]
   },
   {
-    numb: 29,
+    numb: 9,
     question: "Synonym of “legion” is _________?",
     answer: "multitude",
     options: [
@@ -100,7 +100,7 @@ const questions = [
     ]
   },
   {
-    numb: 30,
+    numb: 10,
     question: "Synonym of “reticence” is _________?",
     answer: "reserve",
     options: [
@@ -111,7 +111,7 @@ const questions = [
     ]
   },
   {
-    numb: 31,
+    numb: 11,
     question: "Synonym of “phlegmatic” is _________?",
     answer: "stolid",
     options: [
@@ -122,7 +122,7 @@ const questions = [
     ]
   },
   {
-    numb: 32,
+    numb: 12,
     question: "Synonym of “demise” is _________?",
     answer: "death",
     options: [
@@ -133,7 +133,7 @@ const questions = [
     ]
   },
   {
-    numb: 33,
+    numb: 13,
     question: "Synonym of “intractable” is _________?",
     answer: "hard to manage",
     options: [
@@ -144,7 +144,7 @@ const questions = [
     ]
   },
   {
-    numb: 34,
+    numb: 14,
     question: "Synonym of “celibate” is _________?",
     answer: "single",
     options: [
@@ -155,7 +155,7 @@ const questions = [
     ]
   },
   {
-    numb: 35,
+    numb: 15,
     question: "Synonym of “nepotism” is _________?",
     answer: "favoritism",
     options: [
@@ -166,7 +166,7 @@ const questions = [
     ]
   },
   {
-    numb: 36,
+    numb: 16,
     question: "Synonym of “inculcate” is _________?",
     answer: "teach",
     options: [
@@ -177,7 +177,7 @@ const questions = [
     ]
   },
   {
-    numb: 37,
+    numb: 17,
     question: "Synonym of “Sumptuous” is _____________?",
     answer: "Splendid",
     options: [
@@ -188,7 +188,7 @@ const questions = [
     ]
   },
   {
-    numb: 38,
+    numb: 18,
     question: "Synonym of “Outclass” is _____________?",
     answer: "Surpass",
     options: [
@@ -199,7 +199,7 @@ const questions = [
     ]
   },
   {
-    numb: 39,
+    numb: 19,
     question: "Word nearest in meaning to Obscene is __________?-(PMS 2018)",
     answer: "Both A & B",
     options: [
@@ -210,7 +210,7 @@ const questions = [
     ]
   },
   {
-    numb: 40,
+    numb: 20,
     question: "Synonym of “Abject” is _____________?",
     answer: "All of these",
     options: [
@@ -221,7 +221,7 @@ const questions = [
     ]
   },
   {
-    numb: 41,
+    numb: 21,
     question: "Synonym of “Accost” is __________?",
     answer: "Both a&b",
     options: [
@@ -232,7 +232,7 @@ const questions = [
     ]
   },
   {
-    numb: 42,
+    numb: 22,
     question: "Synonymous of ‘Flank’ is __________?",
     answer: "Side of a person right or left",
     options: [
@@ -243,7 +243,7 @@ const questions = [
     ]
   },
   {
-    numb: 43,
+    numb: 23,
     question: "Synonym of “Dearth” is _____________?",
     answer: "Lack",
     options: [
@@ -254,7 +254,7 @@ const questions = [
     ]
   },
   {
-    numb: 44,
+    numb: 24,
     question: "Synonym of “YOB” is__________?",
     answer: "Aggressive",
     options: [
@@ -265,7 +265,7 @@ const questions = [
     ]
   },
   {
-    numb: 45,
+    numb: 25,
     question: "Synonym of “Gauche” is ________?",
     answer: "Awkward",
     options: [
@@ -276,7 +276,7 @@ const questions = [
     ]
   },
   {
-    numb: 46,
+    numb: 26,
     question: "What is the Synonym of the word “INDUBITABLE”?",
     answer: "Undeniable",
     options: [
@@ -287,7 +287,7 @@ const questions = [
     ]
   },
   {
-    numb: 47,
+    numb: 27,
     question: "Synonym of “Yokel” is _______?",
     answer: "bumpkin",
     options: [
@@ -298,7 +298,7 @@ const questions = [
     ]
   },
   {
-    numb: 48,
+    numb: 28,
     question: "Synonym of “Obsolescent” is _____________?",
     answer: "Fustiness",
     options: [
@@ -309,7 +309,7 @@ const questions = [
     ]
   },
   {
-    numb: 49,
+    numb: 29,
     question: "Synonym of “ALERT” is _____________?",
     answer: "Watchful",
     options: [
@@ -320,7 +320,7 @@ const questions = [
     ]
   },
   {
-    numb: 50,
+    numb: 30,
     question: 'Synonym of "PRECARIOUS" is _____________?',
     answer: "Perilous",
     options: [

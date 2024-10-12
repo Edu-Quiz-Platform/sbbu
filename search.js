@@ -31,9 +31,10 @@ function showSearchBox() {
                     const category = mcq.category ? mcq.category.toLowerCase() : "";
                     const date = mcq.date ? mcq.date.toLowerCase() : "";
                     const description = mcq.description ? mcq.description.toLowerCase() : "";
+                    const explanation = mcq.explanation ? mcq.explanation.toLowerCase() : "";
                     
 
-                    return question.includes(searchInput) || author.includes(searchInput) || category.includes(searchInput) || date.includes(searchInput) || description.includes(searchInput);
+                    return question.includes(searchInput) || author.includes(searchInput) || category.includes(searchInput) || date.includes(searchInput) || explanation.includes(searchInput) || description.includes(searchInput);
                 });
             } else if (searchOptions === "jobs") {
                 // Placeholder for job search (define jobsData similarly to mcqsData)
@@ -59,6 +60,6 @@ function showSearchBox() {
                     resultsContainer.appendChild(resultElement);
                 });
             } else {
-                resultsContainer.innerHTML += "<p>No results found.</p>";
+                resultsContainer.innerHTML += "<p>No Results found.</p>";
             }
         }

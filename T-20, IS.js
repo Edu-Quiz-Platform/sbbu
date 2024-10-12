@@ -1,7 +1,7 @@
 // Array of questions with options and correct answers
 const questions = [
   {
-    numb: 81,
+    numb: 1,
     question: "How many Surahs are in 30th Chapter (Parah) of Quran?",
     answer: "39",
     options: [
@@ -12,7 +12,7 @@ const questions = [
     ]
   },
   {
-    numb: 82,
+    numb: 2,
     question: "Name the battle which came to an end without result?",
     answer: "Tabook",
     options: [
@@ -23,7 +23,7 @@ const questions = [
     ]
   },
   {
-    numb: 83,
+    numb: 3,
     question: "It is said that Hazrat Ibrahim (A.S) was from the city of ‘Ur’. It is located in________?",
     answer: "Mesopotamia",
     options: [
@@ -34,7 +34,7 @@ const questions = [
     ]
   },
   {
-    numb: 84,
+    numb: 4,
     question: "The major part of Quran is revealed at ____________________?",
     answer: "Night time",
     options: [
@@ -45,7 +45,7 @@ const questions = [
     ]
   },
   {
-    numb: 85,
+    numb: 5,
     question: "Who was the first commander of islamic army?",
     answer: "Hazrat Hamza (R.A)",
     options: [
@@ -56,7 +56,7 @@ const questions = [
     ]
   },
   {
-    numb: 86,
+    numb: 6,
     question: "Aitekaaf (Seclusion) during the month of Ramzan is_____________?",
     answer: "Sunnah",
     options: [
@@ -67,7 +67,7 @@ const questions = [
     ]
   },
   {
-    numb: 87,
+    numb: 7,
     question: "What do you understand by Tahleeq________?",
     answer: "Cutting of hair",
     options: [
@@ -78,7 +78,7 @@ const questions = [
     ]
   },
   {
-    numb: 88,
+    numb: 8,
     question: "How many types of Ijma are there____________?",
     answer: "Three",
     options: [
@@ -89,7 +89,7 @@ const questions = [
     ]
   },
   {
-    numb: 89,
+    numb: 9,
     question: "In how many years Makki Surah were revealed?",
     answer: "13",
     options: [
@@ -100,7 +100,7 @@ const questions = [
     ]
   },
   {
-    numb: 90,
+    numb: 10,
     question: "Surah Baqarah contains ________verses?",
     answer: "286",
     options: [
@@ -111,7 +111,7 @@ const questions = [
     ]
   },
   {
-    numb: 91,
+    numb: 11,
     question: "What is the other name of Surah Fatiha?",
     answer: "Both A & B",
     options: [
@@ -122,7 +122,7 @@ const questions = [
     ]
   },
   {
-    numb: 92,
+    numb: 12,
     question: "____________ is called Sayeed-ul-Ayam?",
     answer: "Friday",
     options: [
@@ -133,7 +133,7 @@ const questions = [
     ]
   },
   {
-    numb: 93,
+    numb: 13,
     question: "Our Holy Prophet Muhammad (SAW) had ___________ brothers & sisters.",
     answer: "N.O.T",
     options: [
@@ -144,7 +144,7 @@ const questions = [
     ]
   },
   {
-    numb: 94,
+    numb: 14,
     question: "There are _________ farz in wuzoo (وضو).",
     answer: "4",
     options: [
@@ -155,7 +155,7 @@ const questions = [
     ]
   },
   {
-    numb: 95,
+    numb: 15,
     question: "Jannat al-Baqi is located in ________.",
     answer: "Madina",
     options: [
@@ -166,7 +166,7 @@ const questions = [
     ]
   },
   {
-    numb: 96,
+    numb: 16,
     question: "The first daughter of our Holy prophet (SAW) was ______________.",
     answer: "Hazrat Zainab (R.A)",
     options: [
@@ -177,7 +177,7 @@ const questions = [
     ]
   },
   {
-    numb: 97,
+    numb: 17,
     question: "Which is fourth month of Islamic Calendar?",
     answer: "Rabi-us-Sani",
     options: [
@@ -188,7 +188,7 @@ const questions = [
     ]
   },
   {
-    numb: 98,
+    numb: 18,
     question: "Which is the best month mentioned in Holy Qur’an?",
     answer: "Ramadan",
     options: [
@@ -199,7 +199,7 @@ const questions = [
     ]
   },
   {
-    numb: 99,
+    numb: 19,
     question: "______ is called Shield against sins.",
     answer: "Fasting",
     options: [
@@ -210,7 +210,7 @@ const questions = [
     ]
   },
   {
-    numb: 100,
+    numb: 20,
     question: "______ is the most important night in the month of Ramzan.",
     answer: "Shab-e-Qadar",
     options: [
@@ -221,7 +221,7 @@ const questions = [
     ]
   },
   {
-    numb: 101,
+    numb: 21,
     question: "Who was the first Caliph?",
     answer: "Hazrat Abu Bakar (R.A.)",
     options: [
@@ -232,7 +232,7 @@ const questions = [
     ]
   },
   {
-    numb: 102,
+    numb: 22,
     question: "Who was the second son of Hazrat Muhammad (SAW)?",
     answer: "Hazrat Abdullah",
     options: [
@@ -243,7 +243,7 @@ const questions = [
     ]
   },
   {
-    numb: 103,
+    numb: 23,
     question: "Hazrat Ibrahim son of Hazrat Muhammad (SAW) is burried in _______________.",
     answer: "Jannat ul Baki",
     options: [
@@ -254,7 +254,7 @@ const questions = [
     ]
   },
   {
-    numb: 104,
+    numb: 24,
     question: "Seventh wife of Hazrat Muhammad (SAW) was _______.",
     answer: "Hazrat Zainab binte Hajash (R.A)",
     options: [
@@ -265,7 +265,7 @@ const questions = [
     ]
   },
   {
-    numb: 105,
+    numb: 25,
     question: "Which Sura is the name of one metal?",
     answer: "Hadeed",
     options: [
@@ -276,7 +276,7 @@ const questions = [
     ]
   },
   {
-    numb: 106,
+    numb: 26,
     question: "Kalima Tayyaba, salat, Zakat, Hajj and soam are the fundamental______of Islam?",
     answer: "Pillars",
     options: [
@@ -287,7 +287,7 @@ const questions = [
     ]
   },
   {
-    numb: 107,
+    numb: 27,
     question: "What is name of 15th Para of Holy Qur’an?",
     answer: "Subhanallazi",
     options: [
@@ -298,7 +298,7 @@ const questions = [
     ]
   },
   {
-    numb: 108,
+    numb: 28,
     question: "Madani Surahs were revealed in how many years?",
     answer: "10",
     options: [
@@ -309,7 +309,7 @@ const questions = [
     ]
   },
   {
-    numb: 109,
+    numb: 29,
     question: "What was the age of Hazrat Aisha (R.A) when Hazrat Muhammad (SAW) died?",
     answer: "18 years",
     options: [
@@ -320,7 +320,7 @@ const questions = [
     ]
   },
   {
-    numb: 110,
+    numb: 30,
     question: "Which Surah in the Holy Qur’an is named after a woman?",
     answer: "Surah Al-Mumtahina",
     options: [

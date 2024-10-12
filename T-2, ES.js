@@ -245,7 +245,7 @@ const questions = [
   {
     numb: 23,
     question: "A man is standing on a weighing machine in a lift which is moving. The weighing machine will slow MINIMUM reading when, the lift is moving?",
-    answer: "1",
+    answer: "In a free fall due to failure of the lift mechanism",
     options: [
       "Upward with uniform speed",
       "Downward with uniform acceleration",
