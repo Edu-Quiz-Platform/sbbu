@@ -1,7 +1,7 @@
 // Array of questions with options and correct answers
 const questions = [
     {
-  numb: 171,
+  numb: 1,
   question: "The second daughter of our Holy Prophet (ﷺ) was ____.",
   answer: "Hazrat Ruqayah (R.A)",
   options: [
@@ -12,7 +12,7 @@ const questions = [
   ]
 },
 {
-  numb: 172,
+  numb: 2,
   question: "Which is fifth month of Islamic Calendar?",
   answer: "Jamadi-ul-Awwal",
   options: [
@@ -23,7 +23,7 @@ const questions = [
   ]
 },
 {
-  numb: 173,
+  numb: 3,
   question: "Which is the best night mentioned in Holy Qur’an?",
   answer: "Shab-e-Qadar",
   options: [
@@ -34,7 +34,7 @@ const questions = [
   ]
 },
 {
-  numb: 174,
+  numb: 4,
   question: "____is the atonement for breaking the fast.",
   answer: "To Feed 60 people",
   options: [
@@ -45,7 +45,7 @@ const questions = [
   ]
 },
 {
-  numb: 175,
+  numb: 5,
   question: "The first Ashra of Ramazan is called ____.",
   answer: "Ashra-e-Rehmat",
   options: [
@@ -56,7 +56,7 @@ const questions = [
   ]
 },
 {
-  numb: 176,
+  numb: 6,
   question: "Who was the second Caliph?",
   answer: "Hazrat Umar (R.A)",
   options: [
@@ -67,7 +67,7 @@ const questions = [
   ]
 },
 {
-  numb: 177,
+  numb: 7,
   question: "Who was the third son of Hazrat Muhammad (ﷺ)?",
   answer: "Hazrat Ibrahim",
   options: [
@@ -78,7 +78,7 @@ const questions = [
   ]
 },
 {
-  numb: 178,
+  numb: 8,
   question: "How many sons Hazrat Muhammad (ﷺ) had with Hazrat Maria al-qibtiya (R.A)?",
   answer: "1",
   options: [
@@ -89,7 +89,7 @@ const questions = [
   ]
 },
 {
-  numb: 179,
+  numb: 9,
   question: "Eighth wife of Hazrat Muhammad (ﷺ) was ____.",
   answer: "Hazrat Umeh Habiba (R.A)",
   options: [
@@ -100,7 +100,7 @@ const questions = [
   ]
 },
 {
-  numb: 180,
+  numb: 10,
   question: "How many times Bismillahir Rahmaanir Raheem is repeated in the Holy Quran?",
   answer: "114",
   options: [
@@ -111,7 +111,7 @@ const questions = [
   ]
 },
 {
-  numb: 181,
+  numb: 11,
   question: "Which Surah is the name of one Holy war?",
   answer: "Surah Ahzab",
   options: [
@@ -122,7 +122,7 @@ const questions = [
   ]
 },
 {
-  numb: 182,
+  numb: 12,
   question: "What is the name of the 16th Para of the Holy Qur’an?",
   answer: "Qal Alam",
   options: [
@@ -133,7 +133,7 @@ const questions = [
   ]
 },
 {
-  numb: 183,
+  numb: 13,
   question: "Name the First Female False Prophetess?",
   answer: "Sajah",
   options: [
@@ -144,7 +144,7 @@ const questions = [
   ]
 },
 {
-  numb: 184,
+  numb: 14,
   question: "Who was the first child born after migration (hijrat)?",
   answer: "Abdul bin Zubair (R.A)",
   options: [
@@ -155,7 +155,7 @@ const questions = [
   ]
 },
 {
-  numb: 185,
+  numb: 15,
   question: "Number of angels of hell are ______?",
   answer: "19",
   options: [
@@ -166,7 +166,7 @@ const questions = [
   ]
 },
 {
-  numb: 186,
+  numb: 16,
   question: "What was the age of Hazrat Khadija (R.A) when married to Hazrat Muhammad (ﷺ)?",
   answer: "40",
   options: [
@@ -177,7 +177,7 @@ const questions = [
   ]
 },
 {
-  numb: 187,
+  numb: 17,
   question: "What was the name of Hazrat Khadija (R.A) father?",
   answer: "Khuwaylid ibn Asad",
   options: [
@@ -188,7 +188,7 @@ const questions = [
   ]
 },
 {
-  numb: 188,
+  numb: 18,
   question: "Who are exempt from Ramadan’s fasting?",
   answer: "Pregnancy and breastfeeding",
   options: [
@@ -199,7 +199,7 @@ const questions = [
   ]
 },
 {
-  numb: 189,
+  numb: 19,
   question: "Where is the grave of Hazrat Zikriya (A.S)?",
   answer: "Syria",
   options: [
@@ -210,7 +210,7 @@ const questions = [
   ]
 },
 {
-  numb: 190,
+  numb: 20,
   question: "A male is coffined/wrapped in ____ dressed sheets.",
   answer: "3",
   options: [
@@ -221,7 +221,7 @@ const questions = [
   ]
 },
 {
-  numb: 191,
+  numb: 21,
   question: "Which days are called Ayam-e-Tashreeq?",
   answer: "11, 12 and 13 Zil Haj",
   options: [
@@ -232,7 +232,7 @@ const questions = [
   ]
 },
 {
-  numb: 192,
+  numb: 22,
   question: "Hazrat Yahya (A.S) met with Holy Prophet (ﷺ) on the ____ heaven?",
   answer: "2nd",
   options: [
@@ -243,7 +243,7 @@ const questions = [
   ]
 },
 {
-  numb: 193,
+  numb: 23,
   question: "When did Waqia e Karbala (The Battle of Karbala) occur?",
   answer: "61 AH",
   options: [
@@ -254,7 +254,7 @@ const questions = [
   ]
 },
 {
-  numb: 194,
+  numb: 24,
   question: "Where does jannah (Heaven) lie?",
   answer: "Under Mother’s feet",
   options: [
@@ -265,7 +265,7 @@ const questions = [
   ]
 },
 {
-  numb: 195,
+  numb: 25,
   question: "Takbeer-e-Tashreeq is recited in ____?",
   answer: "Eid-ul-Uzha",
   options: [
@@ -276,7 +276,7 @@ const questions = [
   ]
 },
 {
-  numb: 196,
+  numb: 26,
   question: "How many days did Hazrat Muhammad (ﷺ) stay during the Tabook Battle?",
   answer: "20",
   options: [
@@ -287,7 +287,7 @@ const questions = [
   ]
 },
 {
-  numb: 197,
+  numb: 27,
   question: "Mujadid Alif Sani is the title of ____?",
   answer: "Sheikh Ahmad Sirhindi",
   options: [
@@ -298,7 +298,7 @@ const questions = [
   ]
 },
 {
-  numb: 198,
+  numb: 28,
   question: "What was the number of clauses of the Charter of Madina?",
   answer: "47",
   options: [
@@ -309,7 +309,7 @@ const questions = [
   ]
 },
 {
-  numb: 199,
+  numb: 29,
   question: "The period of reign of Abū Isḥāq Muḥammad ibn Hārūn al-Rashīd is from ____?",
   answer: "796-842",
   options: [
@@ -320,7 +320,7 @@ const questions = [
   ]
 },
 {
-  numb: 200,
+  numb: 30,
   question: "The Umayyad Caliphate lasted from ____?",
   answer: "661-750",
   options: [

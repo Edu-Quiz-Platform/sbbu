@@ -1,7 +1,7 @@
 // Array of questions with options and correct answers
 const questions = [
     {
-  numb: 211,
+  numb: 1,
   question: "Who was the first Governor of Gilgit Baltistan?",
   answer: "Qamar-u-Zaman Kaira",
   options: [
@@ -12,7 +12,7 @@ const questions = [
   ]
 },
 {
-  numb: 212,
+  numb: 2,
   question: "The severity of 2005 earthquake in Pakistan on Richter scale was?",
   answer: "7.6",
   options: [
@@ -23,7 +23,7 @@ const questions = [
   ]
 },
 {
-  numb: 213,
+  numb: 3,
   question: "India has constructed Baglihar Dam on the ____ river?",
   answer: "Chenab",
   options: [
@@ -34,7 +34,7 @@ const questions = [
   ]
 },
 {
-  numb: 214,
+  numb: 4,
   question: "General Zubair Hayat was the _____ Chairman Joint Chiefs of Staff Committee (CJCSC) of Pakistan?",
   answer: "16th",
   options: [
@@ -45,7 +45,7 @@ const questions = [
   ]
 },
 {
-  numb: 215,
+  numb: 5,
   question: "Chief of Army Staff (COAS) Gen Qamar Javed Bajwa was awarded a ____ for promotion of Defence ties between Pakistan and Turkey on 20th June 2017.",
   answer: "Legion of Merit",
   options: [
@@ -56,7 +56,7 @@ const questions = [
   ]
 },
 {
-  numb: 216,
+  numb: 6,
   question: "Who dismissed Benazir Bhutto’s Government for the second time?",
   answer: "Farooq Ahmed Khan Leghari",
   options: [
@@ -67,7 +67,7 @@ const questions = [
   ]
 },
 {
-  numb: 217,
+  numb: 7,
   question: "When was the first constitution of Pakistan enforced?",
   answer: "23rd March 1956",
   options: [
@@ -78,7 +78,7 @@ const questions = [
   ]
 },
 {
-  numb: 218,
+  numb: 8,
   question: "When was the constitution of 1962 abrogated?",
   answer: "26th March 1969",
   options: [
@@ -89,7 +89,7 @@ const questions = [
   ]
 },
 {
-  numb: 219,
+  numb: 9,
   question: "Article 58(2b) of constitution 1973 is about:",
   answer: "Power of President to dissolve National Assembly",
   options: [
@@ -100,7 +100,7 @@ const questions = [
   ]
 },
 {
-  numb: 220,
+  numb: 10,
   question: "The longest river in Pakistan is?",
   answer: "River Sindh",
   options: [
@@ -111,7 +111,7 @@ const questions = [
   ]
 },
 {
-  numb: 221,
+  numb: 11,
   question: "In which year did the British East India Company occupy Punjab?",
   answer: "1849",
   options: [
@@ -122,7 +122,7 @@ const questions = [
   ]
 },
 {
-  numb: 222,
+  numb: 12,
   question: "What was the real name of Titu Mir?",
   answer: "Nisar Ali",
   options: [
@@ -133,7 +133,7 @@ const questions = [
   ]
 },
 {
-  numb: 223,
+  numb: 13,
   question: "The 1973 Constitution of Pakistan came into force on?",
   answer: "14th August 1973",
   options: [
@@ -144,7 +144,7 @@ const questions = [
   ]
 },
 {
-  numb: 224,
+  numb: 14,
   question: "First Census was held in Pakistan in the year?",
   answer: "1951",
   options: [
@@ -155,7 +155,7 @@ const questions = [
   ]
 },
 {
-  numb: 225,
+  numb: 15,
   question: "Who is the first Punjabi poet?",
   answer: "Baba Farid",
   options: [
@@ -166,7 +166,7 @@ const questions = [
   ]
 },
 {
-  numb: 226,
+  numb: 16,
   question: "Sardar Abdur Rub Nishtar was the Governor of?",
   answer: "Punjab",
   options: [
@@ -177,7 +177,7 @@ const questions = [
   ]
 },
 {
-  numb: 227,
+  numb: 17,
   question: "When was Liaquat Nehru Pact between India and Pakistan signed?",
   answer: "1950",
   options: [
@@ -188,7 +188,7 @@ const questions = [
   ]
 },
 {
-  numb: 228,
+  numb: 18,
   question: "Who was the first C-in-C of Pakistan Navy?",
   answer: "Gefford James",
   options: [
@@ -199,7 +199,7 @@ const questions = [
   ]
 },
 {
-  numb: 229,
+  numb: 19,
   question: "Baktar Shikan missile system is ____?",
   answer: "Anti tank",
   options: [
@@ -210,7 +210,7 @@ const questions = [
   ]
 },
 {
-  numb: 230,
+  numb: 20,
   question: "Who was the first Muslim C-in-C of Pakistan Navy?",
   answer: "Admiral Mohammad Siddique",
   options: [
@@ -221,7 +221,7 @@ const questions = [
   ]
 },
 {
-  numb: 231,
+  numb: 21,
   question: "Captain Muhammad Sarwar was martyred in the war of ____?",
   answer: "1948",
   options: [
@@ -232,7 +232,7 @@ const questions = [
   ]
 },
 {
-  numb: 232,
+  numb: 22,
   question: "Who was the 6th Chairman Joint Chiefs of Staff Committee?",
   answer: "General Shamim Alam Khan",
   options: [
@@ -243,7 +243,7 @@ const questions = [
   ]
 },
 {
-  numb: 233,
+  numb: 23,
   question: "How many districts are there in KPK?",
   answer: "34",
   options: [
@@ -254,7 +254,7 @@ const questions = [
   ]
 },
 {
-  numb: 234,
+  numb: 24,
   question: "Kaghan valley is called _____________?",
   answer: "Pearl of the Himalaya",
   options: [
@@ -265,7 +265,7 @@ const questions = [
   ]
 },
 {
-  numb: 235,
+  numb: 25,
   question: "Mohenjodaro is the most famous town of the Indus civilization, located on the ____?",
   answer: "West of Indus River",
   options: [
@@ -276,7 +276,7 @@ const questions = [
   ]
 },
 {
-  numb: 236,
+  numb: 26,
   question: "University of Karachi is located in ____?",
   answer: "Karachi",
   options: [
@@ -287,7 +287,7 @@ const questions = [
   ]
 },
 {
-  numb: 237,
+  numb: 27,
   question: "The largest natural fresh water lake in the subcontinent is ____?",
   answer: "Manchar Lake",
   options: [
@@ -298,7 +298,7 @@ const questions = [
   ]
 },
 {
-  numb: 238,
+  numb: 28,
   question: "Which city is on the border of Sindh and Punjab Provinces?",
   answer: "Kashmore",
   options: [
@@ -309,7 +309,7 @@ const questions = [
   ]
 },
 {
-  numb: 239,
+  numb: 29,
   question: "World Inventor’s Day is celebrated on ____?",
   answer: "9th November",
   options: [
@@ -320,7 +320,7 @@ const questions = [
   ]
 },
 {
-  numb: 240,
+  numb: 30,
   question: "Name the range which separates Pakistan from Afghanistan?",
   answer: "Hindu Kush",
   options: [

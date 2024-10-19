@@ -1,7 +1,7 @@
 // Array of questions with options and correct answers
 const questions = [
     {
-    numb: 161,
+    numb: 1,
     question: "The Book 'A Farewell to Arms' was written by ____?",
     answer: "Ernest Hemingway",
     options: [
@@ -12,7 +12,7 @@ const questions = [
     ]
   },
   {
-    numb: 162,
+    numb: 2,
     question: "The book 'Emile or On Education' on the nature of education and man is written by ____?",
     answer: "Rousseau",
     options: [
@@ -23,7 +23,7 @@ const questions = [
     ]
   },
   {
-    numb: 163,
+    numb: 3,
     question: "The border between USA and Canada is officially known as ____?",
     answer: "International boundary",
     options: [
@@ -34,7 +34,7 @@ const questions = [
     ]
   },
   {
-    numb: 164,
+    numb: 4,
     question: "The capital of Argentina is ____?",
     answer: "Buenos Aires",
     options: [
@@ -45,7 +45,7 @@ const questions = [
     ]
   },
   {
-    numb: 165,
+    numb: 5,
     question: "The capital of Czech Republic is ____?",
     answer: "Prague",
     options: [
@@ -56,7 +56,7 @@ const questions = [
     ]
   },
   {
-    numb: 166,
+    numb: 6,
     question: "The capital of Maldives is ____?",
     answer: "Male",
     options: [
@@ -67,7 +67,7 @@ const questions = [
     ]
   },
   {
-    numb: 167,
+    numb: 7,
     question: "The Capital of Samoa is ____?",
     answer: "Apia",
     options: [
@@ -78,7 +78,7 @@ const questions = [
     ]
   },
   {
-    numb: 168,
+    numb: 8,
     question: "The country whose national anthem has only music, no words is ____?",
     answer: "Bahrain",
     options: [
@@ -89,7 +89,7 @@ const questions = [
     ]
   },
   {
-    numb: 169,
+    numb: 9,
     question: "The driest desert in the world is ____?",
     answer: "Atacama Desert",
     options: [
@@ -100,7 +100,7 @@ const questions = [
     ]
   },
   {
-    numb: 170,
+    numb: 10,
     question: "The eradication of poverty day is internationally observed on ____?",
     answer: "October 17",
     options: [
@@ -111,7 +111,7 @@ const questions = [
     ]
   },
   {
-    numb: 171,
+    numb: 11,
     question: "The famous book 'Al-Qanun' was written by the Muslim scientist ____?",
     answer: "Abu Ali Sina",
     options: [
@@ -122,7 +122,7 @@ const questions = [
     ]
   },
   {
-    numb: 172,
+    numb: 12,
     question: "The fastest marine animal found in warmer parts of five oceans of the world is ____?",
     answer: "Sailfish",
     options: [
@@ -133,7 +133,7 @@ const questions = [
     ]
   },
   {
-    numb: 173,
+    numb: 13,
     question: "The first artificial satellite on earth is ____?",
     answer: "Sputnik I",
     options: [
@@ -144,7 +144,7 @@ const questions = [
     ]
   },
   {
-    numb: 174,
+    numb: 14,
     question: "The first bank note was originated in China. What was it known as at the time of invention?",
     answer: "Flying money",
     options: [
@@ -155,7 +155,7 @@ const questions = [
     ]
   },
   {
-    numb: 175,
+    numb: 15,
     question: "The first English Dictionary was compiled by ____?",
     answer: "Samuel Johnson",
     options: [
@@ -166,7 +166,7 @@ const questions = [
     ]
   },
   {
-    numb: 176,
+    numb: 16,
     question: "The first person to draw the map of earth is ____?",
     answer: "Anaximander",
     options: [
@@ -177,7 +177,7 @@ const questions = [
     ]
   },
   {
-    numb: 177,
+    numb: 17,
     question: "The first season of PSL took place on ____?",
     answer: "4th Feb 2016",
     options: [
@@ -188,7 +188,7 @@ const questions = [
     ]
   },
   {
-    numb: 178,
+    numb: 18,
     question: "The first woman elected to head an African country in 2006 was ____?",
     answer: "Ellen Johnson",
     options: [
@@ -199,7 +199,7 @@ const questions = [
     ]
   },
   {
-    numb: 179,
+    numb: 19,
     question: "The Former Iraqi President Saddam Hussein was captured near his hometown of Tikrit on ____?",
     answer: "13 December 2003",
     options: [
@@ -210,7 +210,7 @@ const questions = [
     ]
   },
   {
-    numb: 180,
+    numb: 20,
     question: "The headquarter of EFTA is in ____?",
     answer: "Geneva",
     options: [
@@ -221,7 +221,7 @@ const questions = [
     ]
   },
   {
-    numb: 181,
+    numb: 21,
     question: "The headquarter of Food and Agriculture Organization (FAO) is in ____?",
     answer: "Rome, Italy",
     options: [
@@ -232,7 +232,7 @@ const questions = [
     ]
   },
   {
-    numb: 182,
+    numb: 22,
     question: "The Headquarters of Twitter is located in ____?",
     answer: "San Francisco",
     options: [
@@ -243,7 +243,7 @@ const questions = [
     ]
   },
   {
-    numb: 183,
+    numb: 23,
     question: "The headquarters of World Intellectual Property Organization (WIPO) is in ____?",
     answer: "Geneva",
     options: [
@@ -254,7 +254,7 @@ const questions = [
     ]
   },
   {
-    numb: 184,
+    numb: 24,
     question: "The International Day of Forests is observed every year on ____?",
     answer: "March 21",
     options: [
@@ -265,7 +265,7 @@ const questions = [
     ]
   },
   {
-    numb: 185,
+    numb: 25,
     question: "The land of hospitality is ____?",
     answer: "KPK",
     options: [
@@ -276,7 +276,7 @@ const questions = [
     ]
   },
   {
-    numb: 186,
+    numb: 26,
     question: "The largest automobile manufacturing center in the world is located at ____?",
     answer: "Detroit",
     options: [
@@ -287,7 +287,7 @@ const questions = [
     ]
   },
   {
-    numb: 187,
+    numb: 27,
     question: "The largest opium producer province of Afghanistan is ____?",
     answer: "Helmand",
     options: [
@@ -298,7 +298,7 @@ const questions = [
     ]
   },
   {
-    numb: 188,
+    numb: 28,
     question: "The largest planet of the solar system is ____?",
     answer: "Jupiter",
     options: [
@@ -309,7 +309,7 @@ const questions = [
     ]
   },
   {
-    numb: 189,
+    numb: 29,
     question: "The main function of the judiciary is ____?",
     answer: "Law adjudication",
     options: [
@@ -320,7 +320,7 @@ const questions = [
     ]
   },
   {
-    numb: 190,
+    numb: 30,
     question: "The most rainiest place in the world is ____?",
     answer: "Mawsynram, India",
     options: [

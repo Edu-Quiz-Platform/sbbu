@@ -1,7 +1,7 @@
 // Array of questions with options and correct answers
 const questions = [
   {
-    numb: 51,
+    numb: 1,
     question: "Synonym of WARY is ____?",
     answer: "Prudent",
     options: [
@@ -12,7 +12,7 @@ const questions = [
     ]
   },
   {
-    numb: 52,
+    numb: 2,
     question: "Synonym of ABATE is ____?",
     answer: "Diminish",
     options: [
@@ -23,7 +23,7 @@ const questions = [
     ]
   },
   {
-    numb: 53,
+    numb: 3,
     question: "Synonym of TRITE is ____?",
     answer: "Commonplace",
     options: [
@@ -34,7 +34,7 @@ const questions = [
     ]
   },
   {
-    numb: 54,
+    numb: 4,
     question: "The synonym of 'Perpetual' is ____?",
     answer: "Everlasting",
     options: [
@@ -45,7 +45,7 @@ const questions = [
     ]
   },
   {
-    numb: 55,
+    numb: 5,
     question: "Synonym of 'escarpment' is ____.",
     answer: "Cliff",
     options: [
@@ -56,7 +56,7 @@ const questions = [
     ]
   },
   {
-    numb: 56,
+    numb: 6,
     question: "Synonym of 'sundry' is ____.",
     answer: "Various",
     options: [
@@ -67,7 +67,7 @@ const questions = [
     ]
   },
   {
-    numb: 57,
+    numb: 7,
     question: "Synonym of 'impregnable' is ____.",
     answer: "Unconquerable",
     options: [
@@ -78,7 +78,7 @@ const questions = [
     ]
   },
   {
-    numb: 58,
+    numb: 8,
     question: "Synonym of 'garrulous' is ____?",
     answer: "Talkative",
     options: [
@@ -89,7 +89,7 @@ const questions = [
     ]
   },
   {
-    numb: 59,
+    numb: 9,
     question: "Synonym of 'daft' is ____?",
     answer: "Silly",
     options: [
@@ -100,7 +100,7 @@ const questions = [
     ]
   },
   {
-    numb: 60,
+    numb: 10,
     question: "Synonym of 'homily' is ____?",
     answer: "Sermon",
     options: [
@@ -111,7 +111,7 @@ const questions = [
     ]
   },
   {
-    numb: 61,
+    numb: 11,
     question: "Synonym of 'whorl' is ____?",
     answer: "Spiral arrangement",
     options: [
@@ -122,7 +122,7 @@ const questions = [
     ]
   },
   {
-    numb: 62,
+    numb: 12,
     question: "Synonym of 'unequivocal' is ____?",
     answer: "Unmistakable",
     options: [
@@ -133,7 +133,7 @@ const questions = [
     ]
   },
   {
-    numb: 63,
+    numb: 13,
     question: "Synonym of 'sedate' is ____?",
     answer: "Calm",
     options: [
@@ -144,7 +144,7 @@ const questions = [
     ]
   },
   {
-    numb: 64,
+    numb: 14,
     question: "Synonym of 'capricious' is ____?",
     answer: "Impulsive",
     options: [
@@ -155,7 +155,7 @@ const questions = [
     ]
   },
   {
-    numb: 65,
+    numb: 15,
     question: "Synonym of 'affix' is ____?",
     answer: "Fasten",
     options: [
@@ -166,7 +166,7 @@ const questions = [
     ]
   },
   {
-    numb: 66,
+    numb: 16,
     question: "Synonym of 'immerse' is ____?",
     answer: "Plunge into",
     options: [
@@ -177,7 +177,7 @@ const questions = [
     ]
   },
   {
-    numb: 67,
+    numb: 17,
     question: "Synonym of 'symposium' is ____?",
     answer: "Conference",
     options: [
@@ -188,7 +188,7 @@ const questions = [
     ]
   },
   {
-    numb: 68,
+    numb: 18,
     question: "Synonym of 'cuisine' is ____?",
     answer: "Style of cooking",
     options: [
@@ -199,7 +199,7 @@ const questions = [
     ]
   },
   {
-    numb: 69,
+    numb: 19,
     question: "Synonym of 'mangy' is ____?",
     answer: "Shabby",
     options: [
@@ -210,7 +210,7 @@ const questions = [
     ]
   },
   {
-    numb: 70,
+    numb: 20,
     question: "Synonym of 'serene' is ____?",
     answer: "Calm",
     options: [
@@ -221,7 +221,7 @@ const questions = [
     ]
   },
   {
-    numb: 71,
+    numb: 21,
     question: "Synonym of 'halcyon' is ____?",
     answer: "Calm",
     options: [
@@ -232,7 +232,7 @@ const questions = [
     ]
   },
   {
-    numb: 72,
+    numb: 22,
     question: "Synonym of 'churlish' is ____?",
     answer: "Boorish",
     options: [
@@ -243,7 +243,7 @@ const questions = [
     ]
   },
   {
-    numb: 73,
+    numb: 23,
     question: "Synonym of 'acumen' is ____?",
     answer: "Keenness",
     options: [
@@ -254,7 +254,7 @@ const questions = [
     ]
   },
   {
-    numb: 74,
+    numb: 24,
     question: "Synonym of 'sordid' is ____?",
     answer: "Dirty",
     options: [
@@ -265,7 +265,7 @@ const questions = [
     ]
   },
   {
-    numb: 75,
+    numb: 25,
     question: "Synonym of 'comely' is ____?",
     answer: "Attractive",
     options: [
@@ -276,7 +276,7 @@ const questions = [
     ]
   },
   {
-    numb: 76,
+    numb: 26,
     question: "Synonym of 'iota' is ____?",
     answer: "Small amount",
     options: [
@@ -287,7 +287,7 @@ const questions = [
     ]
   },
   {
-    numb: 77,
+    numb: 27,
     question: "Synonym of 'broach' is ____?",
     answer: "Introduce",
     options: [
@@ -298,7 +298,7 @@ const questions = [
     ]
   },
   {
-    numb: 78,
+    numb: 28,
     question: "Synonym of 'chagrin' is ____?",
     answer: "Mortification",
     options: [
@@ -309,7 +309,7 @@ const questions = [
     ]
   },
   {
-    numb: 79,
+    numb: 29,
     question: "Synonym of 'frustration' is ____?",
     answer: "Thwart",
     options: [
@@ -320,7 +320,7 @@ const questions = [
     ]
   },
   {
-    numb: 80,
+    numb: 30,
     question: "Synonym of 'fastidious' is ____?",
     answer: "Squeamish",
     options: [

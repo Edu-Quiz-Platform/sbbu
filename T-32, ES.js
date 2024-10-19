@@ -1,7 +1,7 @@
 // Array of questions with options and correct answers
 const questions = [
   {
-    numb: 141,
+    numb: 1,
     question: "Clocks, which move with velocities comparable to the velocity of light, run ____?",
     answer: "slow",
     options: [
@@ -12,7 +12,7 @@ const questions = [
     ]
   },
   {
-    numb: 142,
+    numb: 2,
     question: "The famous book; Al – Qanun was written by the Muslim scientist?",
     answer: "Abu Ali Sina",
     options: [
@@ -23,7 +23,7 @@ const questions = [
     ]
   },
   {
-    numb: 143,
+    numb: 3,
     question: "Which triplet in DNA codes for valine?",
     answer: "N.O.T",
     options: [
@@ -34,7 +34,7 @@ const questions = [
     ]
   },
   {
-    numb: 144,
+    numb: 4,
     question: "Chemical name of vinegar is ____?",
     answer: "Dilute acetic acid",
     options: [
@@ -45,7 +45,7 @@ const questions = [
     ]
   },
   {
-    numb: 145,
+    numb: 5,
     question: "Which of the following layers make radio transmission possible?",
     answer: "Ionosphere",
     options: [
@@ -56,7 +56,7 @@ const questions = [
     ]
   },
   {
-    numb: 146,
+    numb: 6,
     question: "Which of the following atmospheric layers help in radio communication?",
     answer: "Ionosphere",
     options: [
@@ -67,7 +67,7 @@ const questions = [
     ]
   },
   {
-    numb: 147,
+    numb: 7,
     question: "Animal which captures and readily kills living animals for its food is called ____?",
     answer: "Predator",
     options: [
@@ -78,7 +78,7 @@ const questions = [
     ]
   },
   {
-    numb: 148,
+    numb: 8,
     question: "In a fission nuclear reaction, a heavy nucleus breaks up into smaller nuclei whereas in another nuclear reaction two or more than two possibly nuclei are fused to form a heavy nucleus. This nuclear reaction is called ____?",
     answer: "Fusion nuclear reaction",
     options: [
@@ -89,7 +89,7 @@ const questions = [
     ]
   },
   {
-    numb: 149,
+    numb: 9,
     question: "A nuclear reactor is a device used to carry out controlled nuclear reaction whereas GM counter is a device used to detect ____?",
     answer: "Nuclear Radiation",
     options: [
@@ -100,7 +100,7 @@ const questions = [
     ]
   },
   {
-    numb: 150,
+    numb: 10,
     question: "Red blood corpuscles are formed in the ____?",
     answer: "Bone marrow",
     options: [
@@ -111,7 +111,7 @@ const questions = [
     ]
   },
   {
-    numb: 151,
+    numb: 11,
     question: "Which is the largest organ in the human body?",
     answer: "Skin",
     options: [
@@ -122,7 +122,7 @@ const questions = [
     ]
   },
   {
-    numb: 152,
+    numb: 12,
     question: "Medulla oblongata is a part of human ____?",
     answer: "Brain",
     options: [
@@ -133,7 +133,7 @@ const questions = [
     ]
   },
   {
-    numb: 153,
+    numb: 13,
     question: "When a person enters a dark room from bright light, he is not able to see clearly for a little while because the ____?",
     answer: "Iris is unable to dilate the pupil immediately",
     options: [
@@ -144,7 +144,7 @@ const questions = [
     ]
   },
   {
-    numb: 154,
+    numb: 14,
     question: "The Green House Effect is caused by an excess of ____?",
     answer: "Carbon dioxide",
     options: [
@@ -155,7 +155,7 @@ const questions = [
     ]
   },
   {
-    numb: 155,
+    numb: 15,
     question: "Scalding with steam is more severe than scalding by boiling water because ____?",
     answer: "Steam contains more energy than boiling water",
     options: [
@@ -166,7 +166,7 @@ const questions = [
     ]
   },
   {
-    numb: 156,
+    numb: 16,
     question: "An instrument to detect the purity of milk is ____?",
     answer: "Lactometer",
     options: [
@@ -177,7 +177,7 @@ const questions = [
     ]
   },
   {
-    numb: 157,
+    numb: 17,
     question: "The atmosphere of the moon consists of ____?",
     answer: "60% Nitrogen, 40% inert gases",
     options: [
@@ -188,7 +188,7 @@ const questions = [
     ]
   },
   {
-    numb: 158,
+    numb: 18,
     question: "One of these scientists formulated basic laws of Geometry?",
     answer: "Pythagoras",
     options: [
@@ -199,7 +199,7 @@ const questions = [
     ]
   },
   {
-    numb: 159,
+    numb: 19,
     question: "Vacuum tubes have been replaced by ____?",
     answer: "Transistors",
     options: [
@@ -210,7 +210,7 @@ const questions = [
     ]
   },
   {
-    numb: 160,
+    numb: 20,
     question: "The shape of the external ear is due to ____?",
     answer: "Elastic cartilage",
     options: [
@@ -221,7 +221,7 @@ const questions = [
     ]
   },
   {
-    numb: 161,
+    numb: 21,
     question: "When water is filled in a bottle and is allowed to freeze, the bottle breaks because ____?",
     answer: "Water expands on freezing",
     options: [
@@ -232,7 +232,7 @@ const questions = [
     ]
   },
   {
-    numb: 162,
+    numb: 22,
     question: "____ are positively (+) charged particles?",
     answer: "Protons",
     options: [
@@ -243,7 +243,7 @@ const questions = [
     ]
   },
   {
-    numb: 163,
+    numb: 23,
     question: "2017 Nobel Prize Currently Awarded in Physics is for ____?",
     answer: "First Observation of Gravitational Waves",
     options: [
@@ -254,7 +254,7 @@ const questions = [
     ]
   },
   {
-    numb: 164,
+    numb: 24,
     question: "The speed of sound in air at sea level is approximately ____?",
     answer: "340 meters per second",
     options: [
@@ -265,7 +265,7 @@ const questions = [
     ]
   },
   {
-    numb: 165,
+    numb: 25,
     question: "Deficiency of vitamin B1 causes ____?",
     answer: "Beriberi",
     options: [
@@ -276,7 +276,7 @@ const questions = [
     ]
   },
   {
-    numb: 166,
+    numb: 26,
     question: "What is the breathing rate of human being body?",
     answer: "16-20 minutes",
     options: [
@@ -287,7 +287,7 @@ const questions = [
     ]
   },
   {
-    numb: 167,
+    numb: 27,
     question: "If the length of a heater coil is reduced by 10% of its original length, then Power consumed by heater will ____?",
     answer: "Decrease by 10%",
     options: [
@@ -298,7 +298,7 @@ const questions = [
     ]
   },
   {
-    numb: 168,
+    numb: 28,
     question: "The common refrigerant used in domestic Refrigerator is ____?",
     answer: "Freon/Ammonia",
     options: [
@@ -309,7 +309,7 @@ const questions = [
     ]
   },
   {
-    numb: 169,
+    numb: 29,
     question: "PSR J0108-1431 is the closest known ____ to Earth?",
     answer: "Pulsar",
     options: [
@@ -320,7 +320,7 @@ const questions = [
     ]
   },
   {
-    numb: 170,
+    numb: 30,
     question: "Ornithology is the study of ____?",
     answer: "Birds",
     options: [
