@@ -1,3 +1,54 @@
+// Predefined list of auto-complete suggestions
+const suggestions = ["General Knowledge", "Every Day Science", "English", "Pakistan Studies", "Islamic Studies", "Current Affairs"];
+
+function showSuggestions() {
+    const searchInput = document.getElementById("searchInput").value.toLowerCase();
+    const suggestionsContainer = document.getElementById("suggestionsContainer");
+
+    // Clear previous suggestions
+    suggestionsContainer.innerHTML = "";
+
+    // Filter suggestions based on user input
+    const filteredSuggestions = suggestions.filter(suggestion => suggestion.toLowerCase().includes(searchInput));
+
+    // Show filtered suggestions
+    if (searchInput !== "") {
+        filteredSuggestions.forEach(suggestion => {
+            const suggestionElement = document.createElement("div");
+            suggestionElement.classList.add("suggestion-item");
+            suggestionElement.textContent = suggestion;
+            suggestionElement.onclick = () => selectSuggestion(suggestion);
+            suggestionsContainer.appendChild(suggestionElement);
+        });
+    }
+}
+
+function selectSuggestion(suggestion) {
+    // Set the clicked suggestion as the value of the input
+    document.getElementById("searchInput").value = suggestion;
+
+    // Clear the suggestions once a suggestion is selected
+    document.getElementById("suggestionsContainer").innerHTML = "";
+}
+
+function performSearch() {
+    const searchInput = document.getElementById("searchInput").value.toLowerCase();
+    const resultsContainer = document.getElementById("resultsContainer");
+
+    if (searchInput.trim() === "") {
+        resultsContainer.innerHTML = "<p>Please enter a search term.</p>";
+        return;
+    }
+
+    // Perform your search logic here (filter from MCQs or Jobs)
+    // For now, it will just show the search term
+    resultsContainer.innerHTML = `<p>Searching for: ${searchInput}</p>`;
+
+    // Clear suggestions after performing search
+    document.getElementById("suggestionsContainer").innerHTML = "";
+}
+
+
 function showSearchBox() {
             const searchOptions = document.getElementById("searchOptions").value;
             const searchBox = document.getElementById("searchBox");
@@ -56,7 +107,7 @@ function showSearchBox() {
                     resultElement.classList.add("mcq-card");
                     resultElement.innerHTML = `<h3>${item.question}</h3>
                                                <p>Answer: <strong>${item.description}</strong></p>
-                                               <p>Subject: <strong>${item.category}</strong></p>`;
+                                               <p>Added By: <strong>${item.author}</strong></p>`;
                     resultsContainer.appendChild(resultElement);
                 });
             } else {
