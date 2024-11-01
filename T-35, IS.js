@@ -80,7 +80,7 @@ const questions = [
 {
   numb: 8,
   question: "How many sons Hazrat Muhammad (ﷺ) had with Hazrat Maria al-qibtiya (R.A)?",
-  answer: "1",
+  answer: "3",
   options: [
     "3",
     "2",
@@ -156,7 +156,7 @@ const questions = [
 },
 {
   numb: 15,
-  question: "Number of angels of hell are ______?",
+  question: "Number of angels of hell are ____?",
   answer: "19",
   options: [
     "21",
