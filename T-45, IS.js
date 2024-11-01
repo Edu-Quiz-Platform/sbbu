@@ -1,7 +1,7 @@
 // Array of questions with options and correct answers
 const questions = [
   {
-    "numb": 231,
+    "numb": 1,
     "question": 'How many Surahs names are with only one letter?',
     "answer": '4',
     "options": [
@@ -12,7 +12,7 @@ const questions = [
     ]
   },
   {
-    "numb": 232,
+    "numb": 2,
     "question": 'Which Surah of Holy Quran has 200 VERSES?',
     "answer": 'Surah Al Imran',
     "options": [
@@ -23,7 +23,7 @@ const questions = [
     ]
   },
   {
-    "numb": 233,
+    "numb": 3,
     "question": '____ will be first person questioned on Day of Qiyamat.',
     "answer": 'Hazrat Muhammad ()',
     "options": [
@@ -34,7 +34,7 @@ const questions = [
     ]
   },
   {
-    "numb": 234,
+    "numb": 4,
     "question": 'Islamic official seal started in ____?',
     "answer": '7 A.H',
     "options": [
@@ -45,7 +45,7 @@ const questions = [
     ]
   },
   {
-    "numb": 235,
+    "numb": 5,
     "question": 'Torat means ____?',
     "answer": 'Law',
     "options": [
@@ -56,7 +56,7 @@ const questions = [
     ]
   },
   {
-    "numb": 236,
+    "numb": 6,
     "question": 'How many types of Tawaf are there ____?',
     "answer": '7',
     "options": [
@@ -67,7 +67,7 @@ const questions = [
     ]
   },
   {
-    "numb": 237,
+    "numb": 7,
     "question": 'A person who has an intention to offer only Hajj at Meeqat is called ____?',
     "answer": 'Mufrid',
     "options": [
@@ -78,7 +78,7 @@ const questions = [
     ]
   },
   {
-    "numb": 238,
+    "numb": 8,
     "question": 'Consensus of opinion stands for____?',
     "answer": 'Ijma',
     "options": [
@@ -89,7 +89,7 @@ const questions = [
     ]
   },
   {
-    "numb": 239,
+    "numb": 9,
     "question": 'The name of the fifth Kalimah is?',
     "answer": 'Kalimah Istighfar',
     "options": [
@@ -100,7 +100,7 @@ const questions = [
     ]
   },
   {
-    "numb": 240,
+    "numb": 10,
     "question": 'Ayat ul Kursi (آيت الکرسی) is in which Surah of the Holy Quran?',
     "answer": 'Surah Al-Baqarah',
     "options": [
@@ -111,7 +111,7 @@ const questions = [
     ]
   },
   {
-    "numb": 241,
+    "numb": 11,
     "question": 'Surah Namal means a ____?',
     "answer": 'Ant',
     "options": [
@@ -122,7 +122,7 @@ const questions = [
     ]
   },
   {
-    "numb": 242,
+    "numb": 12,
     "question": 'Hazrat Ibrahim (A.H) name mentioned in the Holy Quran ____ times.',
     "answer": '67',
     "options": [
@@ -133,7 +133,7 @@ const questions = [
     ]
   },
   {
-    "numb": 243,
+    "numb": 13,
     "question": '____ city is called “home of hadith”.',
     "answer": 'Madina',
     "options": [
@@ -144,7 +144,7 @@ const questions = [
     ]
   },
   {
-    "numb": 244,
+    "numb": 14,
     "question": '____ is the best drink mentioned in Holy Qur’an.',
     "answer": 'Milk',
     "options": [
@@ -155,7 +155,7 @@ const questions = [
     ]
   },
   {
-    "numb": 245,
+    "numb": 15,
     "question": 'In Surah ____, every verse ends with letter ‘Dal’.',
     "answer": 'Ikhlas',
     "options": [
@@ -166,7 +166,7 @@ const questions = [
     ]
   },
   {
-    "numb": 246,
+    "numb": 16,
     "question": 'The third daughter of our Holy Prophet (SAW) was ____. ',
     "answer": 'Hazrat Umme Kulsom (R.A)',
     "options": [
@@ -177,7 +177,7 @@ const questions = [
     ]
   },
   {
-    "numb": 247,
+    "numb": 17,
     "question": 'Which is sixth month of Islamic Calendar?',
     "answer": 'Jamadi-us-Sani',
     "options": [
@@ -188,7 +188,7 @@ const questions = [
     ]
   },
   {
-    "numb": 248,
+    "numb": 18,
     "question": 'In how many years Makhi Surahs were revealed?',
     "answer": '13',
     "options": [
@@ -199,7 +199,7 @@ const questions = [
     ]
   },
   {
-    "numb": 249,
+    "numb": 19,
     "question": 'Fasting demands total abstinence from ____.',
     "answer": 'All of these',
     "options": [
@@ -210,7 +210,7 @@ const questions = [
     ]
   },
   {
-    "numb": 250,
+    "numb": 20,
     "question": 'The second Ashra of Ramazan is called ?',
     "answer": 'Ashra-e-Maghfirat',
     "options": [
@@ -221,7 +221,7 @@ const questions = [
     ]
   },
   {
-    "numb": 251,
+    "numb": 21,
     "question": 'Who was the Third Caliph?',
     "answer": 'Hazrat Usman(R.A)',
     "options": [
@@ -232,7 +232,7 @@ const questions = [
     ]
   },
   {
-    "numb": 252,
+    "numb": 22,
     "question": 'How many sons Hazrat Muhammad (SAW) had with Hazrat Khadija (RA)?',
     "answer": '2',
     "options": [
@@ -243,7 +243,7 @@ const questions = [
     ]
   },
   {
-    "numb": 253,
+    "numb": 23,
     "question": 'Hazrat Bibi Ruqayyah (R.A) was the daughter of Hazrat Muhammad (SAW) and ____?',
     "answer": 'Khadija bint Khuwaylid',
     "options": [
@@ -254,7 +254,7 @@ const questions = [
     ]
   },
   {
-    "numb": 254,
+    "numb": 24,
     "question": 'Ninth wife of Hazrat Muhammad (SAW) was ____. ',
     "answer": 'Hazrat Safiya (RA)',
     "options": [
@@ -265,7 +265,7 @@ const questions = [
     ]
   },
   {
-    "numb": 255,
+    "numb": 25,
     "question": 'Which Sura is called the heart of Holy Qur’an?',
     "answer": 'Yaseen',
     "options": [
@@ -276,7 +276,7 @@ const questions = [
     ]
   },
   {
-    "numb": 256,
+    "numb": 26,
     "question": 'Which Surah of the Holy Quran deals with the laws of marriage?',
     "answer": 'Nisa',
     "options": [
@@ -287,7 +287,7 @@ const questions = [
     ]
   },
   {
-    "numb": 257,
+    "numb": 27,
     "question": 'What is the name of 17th Para of Holy Qur’an?',
     "answer": 'Aqtarabo',
     "options": [
@@ -298,7 +298,7 @@ const questions = [
     ]
   },
   {
-    "numb": 258,
+    "numb": 28,
     "question": 'First Ashra (First ten days of Ramadan) is known as?',
     "answer": 'Days of Mercy',
     "options": [
@@ -309,7 +309,7 @@ const questions = [
     ]
   },
   {
-    "numb": 259,
+    "numb": 29,
     "question": 'How many surahs of the Holy Quran starts with broken letters (مقطعات حروف)?',
     "answer": '29',
     "options": [
@@ -320,7 +320,7 @@ const questions = [
     ]
   },
   {
-    "numb": 260,
+    "numb": 30,
     "question": 'Who is the gate-keeper of hell?',
     "answer": 'Malik',
     "options": [
