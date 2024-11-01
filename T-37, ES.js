@@ -1,7 +1,7 @@
 // Array of questions with options and correct answers
 const questions = [
 {
-    numb: 171,
+    numb: 1,
     question: 'Some substances are good conductors of electricity in both the solid and liquid states. These substances are generally ____?',
     answer: 'metallic substances',
     options: [
@@ -12,7 +12,7 @@ const questions = [
     ]
   },
   {
-    numb: 172,
+    numb: 2,
     question: 'Which of the following has the highest energy?',
     answer: 'gamma rays',
     options: [
@@ -23,7 +23,7 @@ const questions = [
     ]
   },
   {
-    numb: 173,
+    numb: 3,
     question: 'Approximately, how many times each day do our heart valves open and close normally?',
     answer: '1,00,000',
     options: [
@@ -34,7 +34,7 @@ const questions = [
     ]
   },
   {
-    numb: 174,
+    numb: 4,
     question: 'When warm air is lifted off the surface in temperature depression it is called ____?',
     answer: 'An occlusion',
     options: [
@@ -45,7 +45,7 @@ const questions = [
     ]
   },
   {
-    numb: 175,
+    numb: 5,
     question: 'The strength of wave action depends on all these EXCEPT:',
     answer: 'Currents in the sea',
     options: [
@@ -56,7 +56,7 @@ const questions = [
     ]
   },
   {
-    numb: 176,
+    numb: 6,
     question: 'Cow milk is a rich source of ____?',
     answer: 'vitamin A',
     options: [
@@ -67,7 +67,7 @@ const questions = [
     ]
   },
   {
-    numb: 177,
+    numb: 7,
     question: 'An element that does not occur in nature but can be produced artificially is ____?',
     answer: 'Plutonium',
     options: [
@@ -78,7 +78,7 @@ const questions = [
     ]
   },
   {
-    numb: 178,
+    numb: 8,
     question: 'Which one of the following can be synthesized by the liver?',
     answer: 'Vitamin K',
     options: [
@@ -89,7 +89,7 @@ const questions = [
     ]
   },
   {
-    numb: 179,
+    numb: 9,
     question: 'Average salinity or ratio of salt as per kilogram of water of ocean is ____?',
     answer: '35 grams',
     options: [
@@ -100,7 +100,7 @@ const questions = [
     ]
   },
   {
-    numb: 180,
+    numb: 10,
     question: 'Big Bang theory explains ____?',
     answer: 'Origin of Universe',
     options: [
@@ -111,7 +111,7 @@ const questions = [
     ]
   },
   {
-    numb: 181,
+    numb: 11,
     question: 'Bromine is a ____?',
     answer: 'red-brown liquid',
     options: [
@@ -122,7 +122,7 @@ const questions = [
     ]
   },
   {
-    numb: 182,
+    numb: 12,
     question: 'How does smoking cigarettes impact the red blood cells?',
     answer: 'Decreases their ability to carry oxygen',
     options: [
@@ -133,7 +133,7 @@ const questions = [
     ]
   },
   {
-    numb: 183,
+    numb: 13,
     question: 'The blueness of the sky is mainly due to ____?',
     answer: 'The scattering of sunlight by air molecules',
     options: [
@@ -144,7 +144,7 @@ const questions = [
     ]
   },
   {
-    numb: 184,
+    numb: 14,
     question: 'The earth’s atmosphere is divided into layers based on the vertical profile of ____?',
     answer: 'Air temperature',
     options: [
@@ -155,7 +155,7 @@ const questions = [
     ]
   },
   {
-    numb: 185,
+    numb: 15,
     question: 'The outermost layer of skin is the ____?',
     answer: 'epidermis',
     options: [
@@ -166,7 +166,7 @@ const questions = [
     ]
   },
   {
-    numb: 186,
+    numb: 16,
     question: 'The phases of the moon are partially the result of the ____?',
     answer: 'Revolution of the moon around the earth',
     options: [
@@ -177,7 +177,7 @@ const questions = [
     ]
   },
   {
-    numb: 187,
+    numb: 17,
     question: 'Who was the first to measure the earth’s radius?',
     answer: 'Eratosthenes',
     options: [
@@ -188,7 +188,7 @@ const questions = [
     ]
   },
   {
-    numb: 188,
+    numb: 18,
     question: 'Central Color of Rainbow is ____?',
     answer: 'Green',
     options: [
@@ -199,7 +199,7 @@ const questions = [
     ]
   },
   {
-    numb: 189,
+    numb: 19,
     question: 'Who discovered the Gamma Rays?',
     answer: 'Paul Villard',
     options: [
@@ -210,7 +210,7 @@ const questions = [
     ]
   },
   {
-    numb: 190,
+    numb: 20,
     question: 'The horizontal rows of the periodic table are called ____?',
     answer: 'Periods',
     options: [
@@ -221,7 +221,7 @@ const questions = [
     ]
   },
   {
-    numb: 191,
+    numb: 21,
     question: 'How long does the earth take to cover 1° longitude?',
     answer: '4 Minutes',
     options: [
@@ -232,7 +232,7 @@ const questions = [
     ]
   },
   {
-    numb: 192,
+    numb: 22,
     question: 'Japan is called ‘Land of the rising sun’ because:',
     answer: 'Japan being the Eastern most country in the world, it has the earliest sunrise',
     options: [
@@ -243,7 +243,7 @@ const questions = [
     ]
   },
   {
-    numb: 193,
+    numb: 23,
     question: 'Approximate age of earth is ____?',
     answer: '4.54 billion years',
     options: [
@@ -254,7 +254,7 @@ const questions = [
     ]
   },
   {
-    numb: 194,
+    numb: 24,
     question: 'Which of the following is not a water soluble vitamin?',
     answer: 'Tocopherol',
     options: [
@@ -265,7 +265,7 @@ const questions = [
     ]
   },
   {
-    numb: 195,
+    numb: 25,
     question: 'The distance between Earth and Moon is ____?',
     answer: '3,84,400km',
     options: [
@@ -276,7 +276,7 @@ const questions = [
     ]
   },
   {
-    numb: 196,
+    numb: 26,
     question: 'One Joule is equal to ____?',
     answer: '107 ergs',
     options: [
@@ -287,7 +287,7 @@ const questions = [
     ]
   },
   {
-    numb: 197,
+    numb: 27,
     question: 'Dissolved oxygen (DO) in water should be?',
     answer: '4 to 5 ppm',
     options: [
@@ -298,7 +298,7 @@ const questions = [
     ]
   },
   {
-    numb: 198,
+    numb: 28,
     question: 'The study of fish is known as ____?',
     answer: 'Ichthyology',
     options: [
@@ -309,7 +309,7 @@ const questions = [
     ]
   },
   {
-    numb: 199,
+    numb: 29,
     question: 'A dolphin perceives its environment by the sense of ____?',
     answer: 'Both of these',
     options: [
@@ -320,7 +320,7 @@ const questions = [
     ]
   },
   {
-    numb: 200,
+    numb: 30,
     question: 'Telephone was invented by ____?',
     answer: 'Alexander Graham Bell',
     options: [
