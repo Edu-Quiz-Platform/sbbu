@@ -255,8 +255,8 @@ const questions = [
   },
   {
     numb: 24,
-    question: "Hazrat Umer was Caliph for__________Years?",
-    answer: "1",
+    question: "Hazrat Umar was Caliph for__________Years?",
+    answer: "10 years",
     options: [
       "2 years",
       "4 years",

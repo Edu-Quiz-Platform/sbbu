@@ -14,6 +14,7 @@ function displayQuestions() {
           <li onclick="checkAnswer(${index}, ${i}, this)">${option}</li>
         `).join('')}
       </ul>
+      Powered By: <span class="orange-text">Edu-Quiz-Platform</span> <!-- Added line -->
     `;
     questionContainer.appendChild(questionElement);
   });

@@ -1,10 +1,10 @@
-
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap');
 /* General Reset */
         * {
             margin: 0;
             padding: 0;
             box-sizing: border-box;
-            font-family: 'Arial', sans-serif;
+            font-family: 'Poppins', sans-serif;
         }
 
         body {
@@ -24,7 +24,7 @@
         }
 
         header h1 {
-            font-size: 250%;
+            font-size: 245%;
             letter-spacing: 1px;
             text-transform: uppercase;
         }
@@ -45,7 +45,7 @@
 }
 
 header img.logo {
-    width: 45%; /* Adjust the size as needed */
+    width: 40%; /* Adjust the size as needed */
     height: auto;
     margin-right: 15px;
 }

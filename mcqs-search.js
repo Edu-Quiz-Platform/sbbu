@@ -6914,7 +6914,7 @@ const mcqsData = [
     author: "Raja Jani."
 }, // T-29 Pakistan Studies End 836 - 865 | 30 MCQs
 
-{ // T-30 Islamic Studies End 866 - 895 | 30 MCQs
+{ // T-30 Islamic Studies Start 866 - 895 | 30 MCQs
   numb: 1,
   question: "Hazrat Abu Zar Ghafari (R.A) belongs to Banu Ghifar, The Kinanah Tribe, and he died in ____ A.D.",
   description: "652 A.D",
@@ -7156,5 +7156,247 @@ const mcqsData = [
   date: "17-October-2024",
     category: "Islamic Studies",
     author: "Raja Jani."
-},
+}, // T-30 Islamic Studies End 866 - 895 | 30 MCQs
+
+ // T-31 General Knowledge Start 896 - 925 | 30 MCQs
+    {
+    numb: 1,
+    question: "The Book 'A Farewell to Arms' was written by ____?",
+    description: "Ernest Hemingway",
+    date: "23-October-2024",
+    category: "General Knowledge",
+    author: "Raja Jani."
+  },
+  {
+    numb: 2,
+    question: "The book 'Emile or On Education' on the nature of education and man is written by ____?",
+    description: "Rousseau",
+    date: "23-October-2024",
+    category: "General Knowledge",
+    author: "Raja Jani."
+  },
+  {
+    numb: 3,
+    question: "The border between USA and Canada is officially known as ____?",
+    description: "International boundary",
+    date: "23-October-2024",
+    category: "General Knowledge",
+    author: "Raja Jani."
+  },
+  {
+    numb: 4,
+    question: "The capital of Argentina is ____?",
+    description: "Buenos Aires",
+    date: "23-October-2024",
+    category: "General Knowledge",
+    author: "Raja Jani."
+  },
+  {
+    numb: 5,
+    question: "The capital of Czech Republic is ____?",
+    description: "Prague",
+    date: "23-October-2024",
+    category: "General Knowledge",
+    author: "Raja Jani."
+  },
+  {
+    numb: 6,
+    question: "The capital of Maldives is ____?",
+    description: "Male",
+    date: "23-October-2024",
+    category: "General Knowledge",
+    author: "Raja Jani."
+  },
+  {
+    numb: 7,
+    question: "The Capital of Samoa is ____?",
+    description: "Apia",
+    date: "23-October-2024",
+    category: "General Knowledge",
+    author: "Raja Jani."
+  },
+  {
+    numb: 8,
+    question: "The country whose national anthem has only music, no words is ____?",
+    description: "Bahrain",
+    date: "23-October-2024",
+    category: "General Knowledge",
+    author: "Raja Jani."
+  },
+  {
+    numb: 9,
+    question: "The driest desert in the world is ____?",
+    description: "Atacama Desert",
+    date: "23-October-2024",
+    category: "General Knowledge",
+    author: "Raja Jani."
+  },
+  {
+    numb: 10,
+    question: "The eradication of poverty day is internationally observed on ____?",
+    description: "October 17",
+    date: "23-October-2024",
+    category: "General Knowledge",
+    author: "Raja Jani."
+  },
+  {
+    numb: 11,
+    question: "The famous book 'Al-Qanun' was written by the Muslim scientist ____?",
+    description: "Abu Ali Sina",
+    date: "23-October-2024",
+    category: "General Knowledge",
+    author: "Raja Jani."
+  },
+  {
+    numb: 12,
+    question: "The fastest marine animal found in warmer parts of five oceans of the world is ____?",
+    description: "Sailfish",
+    date: "23-October-2024",
+    category: "General Knowledge",
+    author: "Raja Jani."
+  },
+  {
+    numb: 13,
+    question: "The first artificial satellite on earth is ____?",
+    description: "Sputnik I",
+    date: "23-October-2024",
+    category: "General Knowledge",
+    author: "Raja Jani."
+  },
+  {
+    numb: 14,
+    question: "The first bank note was originated in China. What was it known as at the time of invention?",
+    description: "Flying money",
+    date: "23-October-2024",
+    category: "General Knowledge",
+    author: "Raja Jani."
+  },
+  {
+    numb: 15,
+    question: "The first English Dictionary was compiled by ____?",
+    description: "Samuel Johnson",
+    date: "23-October-2024",
+    category: "General Knowledge",
+    author: "Raja Jani."
+  },
+  {
+    numb: 16,
+    question: "The first person to draw the map of earth is ____?",
+    description: "Anaximander",
+    date: "23-October-2024",
+    category: "General Knowledge",
+    author: "Raja Jani."
+  },
+  {
+    numb: 17,
+    question: "The first season of PSL took place on ____?",
+    description: "4th Feb 2016",
+    date: "23-October-2024",
+    category: "General Knowledge",
+    author: "Raja Jani."
+  },
+  {
+    numb: 18,
+    question: "The first woman elected to head an African country in 2006 was ____?",
+    description: "Ellen Johnson",
+    date: "23-October-2024",
+    category: "General Knowledge",
+    author: "Raja Jani."
+  },
+  {
+    numb: 19,
+    question: "The Former Iraqi President Saddam Hussein was captured near his hometown of Tikrit on ____?",
+    description: "13 December 2003",
+    date: "23-October-2024",
+    category: "General Knowledge",
+    author: "Raja Jani."
+  },
+  {
+    numb: 20,
+    question: "The headquarter of EFTA is in ____?",
+    description: "Geneva",
+    date: "23-October-2024",
+    category: "General Knowledge",
+    author: "Raja Jani."
+  },
+  {
+    numb: 21,
+    question: "The headquarter of Food and Agriculture Organization (FAO) is in ____?",
+    description: "Rome, Italy",
+    date: "23-October-2024",
+    category: "General Knowledge",
+    author: "Raja Jani."
+  },
+  {
+    numb: 22,
+    question: "The Headquarters of Twitter is located in ____?",
+    description: "San Francisco",
+    date: "23-October-2024",
+    category: "General Knowledge",
+    author: "Raja Jani."
+  },
+  {
+    numb: 23,
+    question: "The headquarters of World Intellectual Property Organization (WIPO) is in ____?",
+    description: "Geneva",
+    date: "23-October-2024",
+    category: "General Knowledge",
+    author: "Raja Jani."
+  },
+  {
+    numb: 24,
+    question: "The International Day of Forests is observed every year on ____?",
+    description: "March 21",
+    date: "23-October-2024",
+    category: "General Knowledge",
+    author: "Raja Jani."
+  },
+  {
+    numb: 25,
+    question: "The land of hospitality is ____?",
+    description: "KPK",
+    date: "23-October-2024",
+    category: "General Knowledge",
+    author: "Raja Jani."
+  },
+  {
+    numb: 26,
+    question: "The largest automobile manufacturing center in the world is located at ____?",
+    description: "Detroit",
+    date: "23-October-2024",
+    category: "General Knowledge",
+    author: "Raja Jani."
+  },
+  {
+    numb: 27,
+    question: "The largest opium producer province of Afghanistan is ____?",
+    description: "Helmand",
+    date: "23-October-2024",
+    category: "General Knowledge",
+    author: "Raja Jani."
+  },
+  {
+    numb: 28,
+    question: "The largest planet of the solar system is ____?",
+    description: "Jupiter",
+    date: "23-October-2024",
+    category: "General Knowledge",
+    author: "Raja Jani."
+  },
+  {
+    numb: 29,
+    question: "The main function of the judiciary is ____?",
+    description: "Law adjudication",
+    date: "23-October-2024",
+    category: "General Knowledge",
+    author: "Raja Jani."
+  },
+  {
+    numb: 30,
+    question: "The most rainiest place in the world is ____?",
+    description: "Mawsynram, India",
+    date: "23-October-2024",
+    category: "General Knowledge",
+    author: "Raja Jani."
+  }, // T-31 General Knowledge End 896 - 925 | 30 MCQs
 ];

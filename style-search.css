@@ -105,7 +105,7 @@ nav a:hover {
     border: 1px solid #ddd;
     border-radius: 30px;
     outline: none;
-    width: 300px;
+    width: 95%;
     font-size: 100%;
     transition: border-color 0.3s ease;
 }
