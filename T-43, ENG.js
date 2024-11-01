@@ -1,7 +1,7 @@
 // Array of questions with options and correct answers
 const questions = [
 {
-    numb: 71,
+    numb: 1,
     question: 'I was alarmed_______his death.',
     answer: 'at',
     options: [
@@ -12,7 +12,7 @@ const questions = [
     ]
   },
   {
-    numb: 72,
+    numb: 2,
     question: 'What did you make ____ the lecture?',
     answer: 'of',
     options: [
@@ -23,7 +23,7 @@ const questions = [
     ]
   },
   {
-    numb: 73,
+    numb: 3,
     question: 'The teacher set some homework ____ the end of the lesson.',
     answer: 'at',
     options: [
@@ -34,7 +34,7 @@ const questions = [
     ]
   },
   {
-    numb: 74,
+    numb: 4,
     question: 'He writes _____ ink.',
     answer: 'in',
     options: [
@@ -45,7 +45,7 @@ const questions = [
     ]
   },
   {
-    numb: 75,
+    numb: 5,
     question: 'If ____ the match, I will go to “KPK (Peshawar) to meet the sports board chairperson.',
     answer: 'I win',
     options: [
@@ -56,7 +56,7 @@ const questions = [
     ]
   },
   {
-    numb: 76,
+    numb: 6,
     question: 'I have been working here ____ ten years.',
     answer: 'for',
     options: [
@@ -67,7 +67,7 @@ const questions = [
     ]
   },
   {
-    numb: 77,
+    numb: 7,
     question: 'I suspect him ____ stealing the pen.',
     answer: 'of',
     options: [
@@ -78,7 +78,7 @@ const questions = [
     ]
   },
   {
-    numb: 78,
+    numb: 8,
     question: 'My brother was trembling ____ cold.',
     answer: 'with',
     options: [
@@ -89,7 +89,7 @@ const questions = [
     ]
   },
   {
-    numb: 79,
+    numb: 9,
     question: 'He is worried ____ his future.',
     answer: 'about',
     options: [
@@ -100,7 +100,7 @@ const questions = [
     ]
   },
   {
-    numb: 80,
+    numb: 10,
     question: 'They are anxious ____ his health.',
     answer: 'about',
     options: [
@@ -111,7 +111,7 @@ const questions = [
     ]
   },
   {
-    numb: 81,
+    numb: 11,
     question: 'She is thankful to you for being so patient ____ her.',
     answer: 'with',
     options: [
@@ -122,7 +122,7 @@ const questions = [
     ]
   },
   {
-    numb: 82,
+    numb: 12,
     question: 'He is weak ____ grammar.',
     answer: 'in',
     options: [
@@ -133,7 +133,7 @@ const questions = [
     ]
   },
   {
-    numb: 83,
+    numb: 13,
     question: 'I have had problems similar ____ yours.',
     answer: 'to',
     options: [
@@ -144,7 +144,7 @@ const questions = [
     ]
   },
   {
-    numb: 84,
+    numb: 14,
     question: 'I am sick ____ job.',
     answer: 'of',
     options: [
@@ -155,7 +155,7 @@ const questions = [
     ]
   },
   {
-    numb: 85,
+    numb: 15,
     question: 'He is averse ____ hard work.',
     answer: 'to',
     options: [
@@ -166,7 +166,7 @@ const questions = [
     ]
   },
   {
-    numb: 86,
+    numb: 16,
     question: 'Unfortunately, we had to cancel it owing ____ the bad weather.',
     answer: 'to',
     options: [
@@ -177,7 +177,7 @@ const questions = [
     ]
   },
   {
-    numb: 87,
+    numb: 17,
     question: 'She suffers ____ a heart disease.',
     answer: 'from',
     options: [
@@ -188,7 +188,7 @@ const questions = [
     ]
   },
   {
-    numb: 88,
+    numb: 18,
     question: 'The food is very good ____ that restaurant.',
     answer: 'in',
     options: [
@@ -199,7 +199,7 @@ const questions = [
     ]
   },
   {
-    numb: 89,
+    numb: 19,
     question: 'You must bear ____ his pranks.',
     answer: 'with',
     options: [
@@ -210,7 +210,7 @@ const questions = [
     ]
   },
   {
-    numb: 90,
+    numb: 20,
     question: 'There is no point ____ arguing.',
     answer: 'in',
     options: [
@@ -221,7 +221,7 @@ const questions = [
     ]
   },
   {
-    numb: 91,
+    numb: 21,
     question: 'The prisoner was bound _____ the stake.',
     answer: 'to',
     options: [
@@ -232,7 +232,7 @@ const questions = [
     ]
   },
   {
-    numb: 92,
+    numb: 22,
     question: 'Prime Minister has arrived ____ London.',
     answer: 'in',
     options: [
@@ -243,7 +243,7 @@ const questions = [
     ]
   },
   {
-    numb: 93,
+    numb: 23,
     question: 'She is interested _____ drawing and painting.',
     answer: 'in',
     options: [
@@ -254,7 +254,7 @@ const questions = [
     ]
   },
   {
-    numb: 94,
+    numb: 24,
     question: 'There is still no cure ____ AIDS.',
     answer: 'for',
     options: [
@@ -265,7 +265,7 @@ const questions = [
     ]
   },
   {
-    numb: 95,
+    numb: 25,
     question: 'Sana was staring ____ me.',
     answer: 'at',
     options: [
@@ -276,7 +276,7 @@ const questions = [
     ]
   },
   {
-    numb: 96,
+    numb: 26,
     question: 'Sana is popular ____ her friends.',
     answer: 'with',
     options: [
@@ -287,7 +287,7 @@ const questions = [
     ]
   },
   {
-    numb: 97,
+    numb: 27,
     question: 'The training session has been changed from 9:00 _____ 10:00.',
     answer: 'to',
     options: [
@@ -298,7 +298,7 @@ const questions = [
     ]
   },
   {
-    numb: 98,
+    numb: 28,
     question: 'Amna was engaged ____ Asim.',
     answer: 'to',
     options: [
@@ -309,7 +309,7 @@ const questions = [
     ]
   },
   {
-    numb: 99,
+    numb: 29,
     question: 'I’m ____ sure of it as you are.',
     answer: 'as',
     options: [
@@ -320,7 +320,7 @@ const questions = [
     ]
   },
   {
-    numb: 100,
+    numb: 30,
     question: 'It was kind ____ you to help.',
     answer: 'of',
     options: [
