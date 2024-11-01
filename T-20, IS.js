@@ -3,11 +3,11 @@ const questions = [
   {
     numb: 1,
     question: "How many Surahs are in 30th Chapter (Parah) of Quran?",
-    answer: "39",
+    answer: "37",
     options: [
-      "39",
-      "38",
       "37",
+      "38",
+      "39",
       "40"
     ]
   },
