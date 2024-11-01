@@ -1,7 +1,7 @@
 // Array of questions with options and correct answers
 const questions = [
 {
-    numb: 221,
+    numb: 1,
     question: 'Water source beneath the earth flowing naturally is called ____?',
     answer: 'Spring',
     options: [
@@ -12,7 +12,7 @@ const questions = [
     ]
   },
   {
-    numb: 222,
+    numb: 2,
     question: 'What animal has the shortest gestation period known is 12 to 13 days?',
     answer: 'Opossum',
     options: [
@@ -23,7 +23,7 @@ const questions = [
     ]
   },
   {
-    numb: 223,
+    numb: 3,
     question: 'What approximate part of J&K is under India’s occupation?',
     answer: '75%',
     options: [
@@ -34,7 +34,7 @@ const questions = [
     ]
   },
   {
-    numb: 224,
+    numb: 4,
     question: 'What are the Coldest months in Australia?',
     answer: 'July and August',
     options: [
@@ -45,7 +45,7 @@ const questions = [
     ]
   },
   {
-    numb: 225,
+    numb: 5,
     question: 'What colour belt are martial arts experts entitled to wear?',
     answer: 'Black',
     options: [
@@ -56,7 +56,7 @@ const questions = [
     ]
   },
   {
-    numb: 226,
+    numb: 6,
     question: 'What do you mean by word “Android” ____?',
     answer: 'Human Like',
     options: [
@@ -67,7 +67,7 @@ const questions = [
     ]
   },
   {
-    numb: 227,
+    numb: 7,
     question: 'What does the Roman Numeral C represents?',
     answer: '100',
     options: [
@@ -78,7 +78,7 @@ const questions = [
     ]
   },
   {
-    numb: 228,
+    numb: 8,
     question: 'What is a basin?',
     answer: 'Lower area of land',
     options: [
@@ -89,7 +89,7 @@ const questions = [
     ]
   },
   {
-    numb: 229,
+    numb: 9,
     question: 'What is length of the Albert Canal?',
     answer: '80.5 mile',
     options: [
@@ -100,7 +100,7 @@ const questions = [
     ]
   },
   {
-    numb: 230,
+    numb: 10,
     question: 'What is the Currency of Mongolia?',
     answer: 'Togrog',
     options: [
@@ -111,7 +111,7 @@ const questions = [
     ]
   },
   {
-    numb: 231,
+    numb: 11,
     question: 'What is the length of Ranikot fort?',
     answer: '31 kilometer, 19 (mi)',
     options: [
@@ -122,7 +122,7 @@ const questions = [
     ]
   },
   {
-    numb: 232,
+    numb: 12,
     question: 'What is the most popular second language in the world?',
     answer: 'English',
     options: [
@@ -133,7 +133,7 @@ const questions = [
     ]
   },
   {
-    numb: 233,
+    numb: 13,
     question: 'What is the name of Capital of Nigeria?',
     answer: 'Abuja',
     options: [
@@ -144,7 +144,7 @@ const questions = [
     ]
   },
   {
-    numb: 234,
+    numb: 14,
     question: 'What is the name of Europe’s first underwater restaurant?',
     answer: 'Under',
     options: [
@@ -155,7 +155,7 @@ const questions = [
     ]
   },
   {
-    numb: 235,
+    numb: 15,
     question: 'What is the name of the storm which hit the United Kingdom in February 2020?',
     answer: 'Storm Dennis',
     options: [
@@ -166,7 +166,7 @@ const questions = [
     ]
   },
   {
-    numb: 236,
+    numb: 16,
     question: 'What is the name of world oldest Skydiver?',
     answer: 'Irene O’Shea',
     options: [
@@ -177,7 +177,7 @@ const questions = [
     ]
   },
   {
-    numb: 237,
+    numb: 17,
     question: 'What is the total length of Indus River?',
     answer: '3180 km',
     options: [
@@ -188,7 +188,7 @@ const questions = [
     ]
   },
   {
-    numb: 238,
+    numb: 18,
     question: 'What is the world’s largest living mammal?',
     answer: 'Blue Whale',
     options: [
@@ -199,7 +199,7 @@ const questions = [
     ]
   },
   {
-    numb: 239,
+    numb: 19,
     question: 'What Kansas city’s name means ‘potato’ in the Kansa language?',
     answer: 'Topeka',
     options: [
@@ -210,7 +210,7 @@ const questions = [
     ]
   },
   {
-    numb: 240,
+    numb: 20,
     question: 'What razor-thin country accounts for more than half of the western coastline of South America?',
     answer: 'Chile',
     options: [
@@ -221,7 +221,7 @@ const questions = [
     ]
   },
   {
-    numb: 241,
+    numb: 21,
     question: 'What was the first country to leave the United Nations?',
     answer: 'Indonesia',
     options: [
@@ -232,7 +232,7 @@ const questions = [
     ]
   },
   {
-    numb: 242,
+    numb: 22,
     question: 'What was the height of Quaid-e-Azam Mohammad Ali Jinnah, the founder of Pakistan?',
     answer: '5 feet & 10 inches',
     options: [
@@ -243,7 +243,7 @@ const questions = [
     ]
   },
   {
-    numb: 243,
+    numb: 23,
     question: 'What was the name of Malaysian airline flight which was lost and disappeared in 2014?',
     answer: 'MH 370',
     options: [
@@ -254,7 +254,7 @@ const questions = [
     ]
   },
   {
-    numb: 244,
+    numb: 24,
     question: 'What was the old name of Quetta?',
     answer: 'Shalkot',
     options: [
@@ -265,7 +265,7 @@ const questions = [
     ]
   },
   {
-    numb: 245,
+    numb: 25,
     question: 'When did Mongolian leader Temujin defeat his rivals and receive the title Genghis Khan, Universal Ruler of the Mongols?',
     answer: '1206',
     options: [
@@ -276,7 +276,7 @@ const questions = [
     ]
   },
   {
-    numb: 246,
+    numb: 26,
     question: 'When did the New York Stock Exchange open its first permanent headquarters near Wall Street in New York City?',
     answer: '4 January 1865',
     options: [
@@ -287,7 +287,7 @@ const questions = [
     ]
   },
   {
-    numb: 247,
+    numb: 27,
     question: 'When did Tipu Sultan die?',
     answer: 'May 4, 1799',
     options: [
@@ -298,7 +298,7 @@ const questions = [
     ]
   },
   {
-    numb: 248,
+    numb: 28,
     question: 'When was the International Olympic Committee established?',
     answer: '1894',
     options: [
@@ -309,7 +309,7 @@ const questions = [
     ]
   },
   {
-    numb: 249,
+    numb: 29,
     question: 'When did the Iran-Iraq war end?',
     answer: 'August 20, 1988',
     options: [
@@ -320,7 +320,7 @@ const questions = [
     ]
   },
   {
-    numb: 250,
+    numb: 30,
     question: 'When was the state of Israel established?',
     answer: '1948',
     options: [
