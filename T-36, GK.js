@@ -1,7 +1,7 @@
 // Array of questions with options and correct answers
 const questions = [
 {
-    numb: 191,
+    numb: 1,
     question: 'The name of UNO was coined by?',
     answer: 'Frank Roosevelt',
     options: [
@@ -12,7 +12,7 @@ const questions = [
     ]
   },
   {
-    numb: 192,
+    numb: 2,
     question: 'The newest member of the Eurozone is ____?',
     answer: 'Lithuania',
     options: [
@@ -23,7 +23,7 @@ const questions = [
     ]
   },
   {
-    numb: 193,
+    numb: 3,
     question: 'The North Atlantic treaty (NATO) was signed in ____?',
     answer: '1949',
     options: [
@@ -34,7 +34,7 @@ const questions = [
     ]
   },
   {
-    numb: 194,
+    numb: 4,
     question: 'The number of countries which participated in the first Olympic games held at Athens was ____?',
     answer: '14',
     options: [
@@ -45,7 +45,7 @@ const questions = [
     ]
   },
   {
-    numb: 195,
+    numb: 5,
     question: 'The OIC was founded in ____?',
     answer: 'Morocco',
     options: [
@@ -56,7 +56,7 @@ const questions = [
     ]
   },
   {
-    numb: 196,
+    numb: 6,
     question: 'The old name of Jordan is ____?',
     answer: 'Transjordan',
     options: [
@@ -67,7 +67,7 @@ const questions = [
     ]
   },
   {
-    numb: 197,
+    numb: 7,
     question: 'The oldest anthem of the world is?',
     answer: 'Japan',
     options: [
@@ -78,7 +78,7 @@ const questions = [
     ]
   },
   {
-    numb: 198,
+    numb: 8,
     question: 'The Pearl River is located in which country?',
     answer: 'China',
     options: [
@@ -89,7 +89,7 @@ const questions = [
     ]
   },
   {
-    numb: 199,
+    numb: 9,
     question: 'The period from 1649-1660 is known as ____?',
     answer: 'Commonwealth period',
     options: [
@@ -100,7 +100,7 @@ const questions = [
     ]
   },
   {
-    numb: 200,
+    numb: 10,
     question: 'The permanent Secretariat of SAARC is located in ____?',
     answer: 'Kathmandu, Nepal',
     options: [
@@ -111,7 +111,7 @@ const questions = [
     ]
   },
   {
-    numb: 201,
+    numb: 11,
     question: 'The picture on the back of 10 Rupee Pakistani note?',
     answer: 'Khyber Pass',
     options: [
@@ -122,7 +122,7 @@ const questions = [
     ]
   },
   {
-    numb: 202,
+    numb: 12,
     question: 'The process with the help of which the students are divided into high / low achievers is?',
     answer: 'Exam',
     options: [
@@ -133,7 +133,7 @@ const questions = [
     ]
   },
   {
-    numb: 203,
+    numb: 13,
     question: 'The real name of K.K Aziz a historian was ____?',
     answer: 'Khursheed Kamal Aziz',
     options: [
@@ -144,7 +144,7 @@ const questions = [
     ]
   },
   {
-    numb: 204,
+    numb: 14,
     question: 'The SAFTA(South Asian Free Trade Agreement) entered into force on 1 January, ____?',
     answer: '2004',
     options: [
@@ -155,7 +155,7 @@ const questions = [
     ]
   },
   {
-    numb: 205,
+    numb: 15,
     question: 'The second largest cricket ground in the world?',
     answer: 'Melbourne Cricket Ground',
     options: [
@@ -166,7 +166,7 @@ const questions = [
     ]
   },
   {
-    numb: 206,
+    numb: 16,
     question: 'The stick which is used to hit the ball in golf is called ____?',
     answer: 'Club',
     options: [
@@ -177,7 +177,7 @@ const questions = [
     ]
   },
   {
-    numb: 207,
+    numb: 17,
     question: 'The term PVC used in the plastic industry stands for ____?',
     answer: 'Polyvinyl chloride',
     options: [
@@ -188,7 +188,7 @@ const questions = [
     ]
   },
   {
-    numb: 208,
+    numb: 18,
     question: 'The Way of the World is written by ____?',
     answer: 'William Congreve',
     options: [
@@ -199,7 +199,7 @@ const questions = [
     ]
   },
   {
-    numb: 209,
+    numb: 19,
     question: 'The World Day for International Justice (WDIJ) is observed every year on ____?',
     answer: '17 July',
     options: [
@@ -210,7 +210,7 @@ const questions = [
     ]
   },
   {
-    numb: 210,
+    numb: 20,
     question: 'The world leader in geothermal electricity is ____?',
     answer: 'USA',
     options: [
@@ -221,7 +221,7 @@ const questions = [
     ]
   },
   {
-    numb: 211,
+    numb: 21,
     question: 'The World Leprosy Day 2019 will be observed on?',
     answer: '27 January',
     options: [
@@ -232,7 +232,7 @@ const questions = [
     ]
   },
   {
-    numb: 212,
+    numb: 22,
     question: 'The world’s first drainage system was built by the people of ____?',
     answer: 'Indus Valley civilization',
     options: [
@@ -243,7 +243,7 @@ const questions = [
     ]
   },
   {
-    numb: 213,
+    numb: 23,
     question: 'The world’s first nuclear power plant was built by ____?',
     answer: 'Russia',
     options: [
@@ -254,7 +254,7 @@ const questions = [
     ]
   },
   {
-    numb: 214,
+    numb: 24,
     question: 'The world’s largest bird is ____?',
     answer: 'Common Ostrich',
     options: [
@@ -265,7 +265,7 @@ const questions = [
     ]
   },
   {
-    numb: 215,
+    numb: 25,
     question: 'There are nearly ____ billion humans on planet Earth.',
     answer: '7.6',
     options: [
@@ -276,7 +276,7 @@ const questions = [
     ]
   },
   {
-    numb: 216,
+    numb: 26,
     question: 'Through which one of the following countries does the equator not pass?',
     answer: 'Tanzania',
     options: [
@@ -287,7 +287,7 @@ const questions = [
     ]
   },
   {
-    numb: 217,
+    numb: 27,
     question: 'Treaty of Lausanne was signed in ____?',
     answer: '1923',
     options: [
@@ -298,7 +298,7 @@ const questions = [
     ]
   },
   {
-    numb: 218,
+    numb: 28,
     question: 'UNITA has become a political party in Angola, but between the 1960s-1990s it was one of the chief rebel groups in the country. Who was its leader?',
     answer: 'Jonas Savimbi',
     options: [
@@ -309,7 +309,7 @@ const questions = [
     ]
   },
   {
-    numb: 219,
+    numb: 29,
     question: 'Upper Volta is the new name of ____?',
     answer: 'Burkina Faso',
     options: [
@@ -320,7 +320,7 @@ const questions = [
     ]
   },
   {
-    numb: 220,
+    numb: 30,
     question: 'USA consists of ____ states?',
     answer: '50',
     options: [
