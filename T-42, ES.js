@@ -1,7 +1,7 @@
 // Array of questions with options and correct answers
 const questions = [
 {
-    numb: 201,
+    numb: 1,
     question: 'If you have “caries” then which doctor you should consult?',
     answer: 'Dentist',
     options: [
@@ -12,7 +12,7 @@ const questions = [
     ]
 },
 {
-    numb: 202,
+    numb: 2,
     question: 'In Eye donation, which part of the eye is used?',
     answer: 'Cornea',
     options: [
@@ -23,7 +23,7 @@ const questions = [
     ]
 },
 {
-    numb: 203,
+    numb: 3,
     question: 'How many moons does Neptune have?',
     answer: '13',
     options: [
@@ -34,7 +34,7 @@ const questions = [
     ]
 },
 {
-    numb: 204,
+    numb: 4,
     question: 'What is the rarest blood type in humans?',
     answer: 'AB-',
     options: [
@@ -45,7 +45,7 @@ const questions = [
     ]
 },
 {
-    numb: 205,
+    numb: 5,
     question: 'The lowest region of the earth’s atmosphere, between the earth and stratosphere, is called?',
     answer: 'Troposphere',
     options: [
@@ -56,7 +56,7 @@ const questions = [
     ]
 },
 {
-    numb: 206,
+    numb: 6,
     question: 'Which is the hottest planet in our Solar system?',
     answer: 'Venus',
     options: [
@@ -67,7 +67,7 @@ const questions = [
     ]
 },
 {
-    numb: 207,
+    numb: 7,
     question: 'The heating element of an electric heater is made up of ____?',
     answer: 'Nichrome',
     options: [
@@ -78,7 +78,7 @@ const questions = [
     ]
 },
 {
-    numb: 208,
+    numb: 8,
     question: 'In the BTU system, one BTU is equal to ____?',
     answer: '1055 Joule',
     options: [
@@ -89,7 +89,7 @@ const questions = [
     ]
 },
 {
-    numb: 209,
+    numb: 9,
     question: 'For water purification, we use?',
     answer: 'Chlorine',
     options: [
@@ -100,7 +100,7 @@ const questions = [
     ]
 },
 {
-    numb: 210,
+    numb: 10,
     question: 'Which of the following regulates the metabolism of sugar?',
     answer: 'Insulin',
     options: [
@@ -111,7 +111,7 @@ const questions = [
     ]
 },
 {
-    numb: 211,
+    numb: 11,
     question: 'What is a mixture of Potassium Nitrate, powdered charcoal, and Sulphur called?',
     answer: 'Gun Powder',
     options: [
@@ -122,7 +122,7 @@ const questions = [
     ]
 },
 {
-    numb: 212,
+    numb: 12,
     question: 'Who created the periodic table?',
     answer: 'Mendeleev',
     options: [
@@ -133,7 +133,7 @@ const questions = [
     ]
 },
 {
-    numb: 213,
+    numb: 13,
     question: 'The term PVC used in the plastic industry stands for ____?',
     answer: 'Polyvinyl chloride',
     options: [
@@ -144,7 +144,7 @@ const questions = [
     ]
 },
 {
-    numb: 214,
+    numb: 14,
     question: 'Which drugs block the sensory nerves and prevent the patient from feeling pain?',
     answer: 'Anaesthetics',
     options: [
@@ -155,7 +155,7 @@ const questions = [
     ]
 },
 {
-    numb: 215,
+    numb: 15,
     question: 'Who invented Logarithm Tables?',
     answer: 'John Napier',
     options: [
@@ -166,7 +166,7 @@ const questions = [
     ]
 },
 {
-    numb: 216,
+    numb: 16,
     question: 'In which part of the Plant does photosynthesis take place?',
     answer: 'Leaves',
     options: [
@@ -177,7 +177,7 @@ const questions = [
     ]
 },
 {
-    numb: 217,
+    numb: 17,
     question: 'Which of the following is responsible for the largest amount of oxygen on earth?',
     answer: 'Algae',
     options: [
@@ -188,7 +188,7 @@ const questions = [
     ]
 },
 {
-    numb: 218,
+    numb: 18,
     question: 'The luster of diamond is due to ____?',
     answer: 'Total internal reflection',
     options: [
@@ -199,7 +199,7 @@ const questions = [
     ]
 },
 {
-    numb: 219,
+    numb: 19,
     question: 'The type of glass used in making lenses and prisms is ____?',
     answer: 'Flintglass',
     options: [
@@ -210,7 +210,7 @@ const questions = [
     ]
 },
 {
-    numb: 220,
+    numb: 20,
     question: 'EEG records the activity of ____?',
     answer: 'Brain',
     options: [
@@ -221,7 +221,7 @@ const questions = [
     ]
 },
 {
-    numb: 221,
+    numb: 21,
     question: 'Earthquakes occur most frequently at ____?',
     answer: 'Plate boundaries',
     options: [
@@ -232,7 +232,7 @@ const questions = [
     ]
 },
 {
-    numb: 222,
+    numb: 22,
     question: 'What is anthracite?',
     answer: 'Hard coal',
     options: [
@@ -243,7 +243,7 @@ const questions = [
     ]
 },
 {
-    numb: 223,
+    numb: 23,
     question: 'Which are the only two elements on the periodic table that are liquid at room temperature?',
     answer: 'Mercury and Bromine',
     options: [
@@ -254,7 +254,7 @@ const questions = [
     ]
 },
 {
-    numb: 224,
+    numb: 24,
     question: 'What is the body’s natural or acquired ability to resist certain diseases?',
     answer: 'Immunity',
     options: [
@@ -265,7 +265,7 @@ const questions = [
     ]
 },
 {
-    numb: 225,
+    numb: 25,
     question: 'Dead red blood corpuscles are stored in ____?',
     answer: 'Spleen',
     options: [
@@ -276,7 +276,7 @@ const questions = [
     ]
 },
 {
-    numb: 226,
+    numb: 26,
     question: 'Granite is a____?',
     answer: 'Igneous rock',
     options: [
@@ -287,7 +287,7 @@ const questions = [
     ]
 },
 {
-    numb: 227,
+    numb: 27,
     question: 'Where is the uvula located in the human body?',
     answer: 'Throat',
     options: [
@@ -298,7 +298,7 @@ const questions = [
     ]
 },
 {
-    numb: 228,
+    numb: 28,
     question: 'Which animal has no vocal cords?',
     answer: 'Giraffe',
     options: [
@@ -309,7 +309,7 @@ const questions = [
     ]
 },
 {
-    numb: 229,
+    numb: 29,
     question: 'Being Myopic means you have difficulty seeing ____?',
     answer: 'Distant objects clearly',
     options: [
@@ -320,7 +320,7 @@ const questions = [
     ]
 },
 {
-    numb: 230,
+    numb: 30,
     question: 'The hormone that increases the rate of heartbeat and blood pressure after shock in a person is____?',
     answer: 'Adrenalin',
     options: [
