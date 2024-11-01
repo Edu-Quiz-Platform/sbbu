@@ -1,7 +1,7 @@
 // Array of questions with options and correct answers
 const questions = [
 {
-    numb: 201,
+    numb: 1,
     question: 'Which Prophet invented Soap?',
     answer: 'Prophet Saleh (A.S)',
     options: [
@@ -12,7 +12,7 @@ const questions = [
     ]
 },
 {
-    numb: 202,
+    numb: 2,
     question: 'Who Introduced Police System?',
     answer: 'Hazrat Umer (R.A)',
     options: [
@@ -23,7 +23,7 @@ const questions = [
     ]
 },
 {
-    numb: 203,
+    numb: 3,
     question: 'Facsimile of Holy Prophet (SAWS) was?',
     answer: 'Hazrat Mus’ab bin Umair',
     options: [
@@ -34,7 +34,7 @@ const questions = [
     ]
 },
 {
-    numb: 204,
+    numb: 4,
     question: 'Mughal emperor Akbar enforce Din-I-Ilahi in?',
     answer: '1582',
     options: [
@@ -45,7 +45,7 @@ const questions = [
     ]
 },
 {
-    numb: 205,
+    numb: 5,
     question: 'Who was made governor of south Yemen by Holy Prophet?',
     answer: 'Maaz Bin Jabal',
     options: [
@@ -56,7 +56,7 @@ const questions = [
     ]
 },
 {
-    numb: 206,
+    numb: 6,
     question: 'The Khutba of Hajj (Hajj sermon) is delivered in which mosque?',
     answer: 'Masid-e-Nimra',
     options: [
@@ -67,7 +67,7 @@ const questions = [
     ]
 },
 {
-    numb: 207,
+    numb: 7,
     question: 'The book “Kitab al Amwal” (The book of Revenue) was written by?',
     answer: 'Abu Ubaid al Qasim Ibn Sallam',
     options: [
@@ -78,7 +78,7 @@ const questions = [
     ]
 },
 {
-    numb: 208,
+    numb: 8,
     question: 'The famous Personalities who Accepted Islam after the Conquest of Makkah Were?',
     answer: 'All of these',
     options: [
@@ -89,7 +89,7 @@ const questions = [
     ]
 },
 {
-    numb: 209,
+    numb: 9,
     question: 'The Battle of Yarmouk was fought during the caliphate of?',
     answer: 'Hazrat Umar (RA)',
     options: [
@@ -100,7 +100,7 @@ const questions = [
     ]
 },
 {
-    numb: 210,
+    numb: 10,
     question: 'The Commandment for observing Fast has been stipulated in the Surah?',
     answer: 'Surah Baqara',
     options: [
@@ -111,7 +111,7 @@ const questions = [
     ]
 },
 {
-    numb: 211,
+    numb: 11,
     question: 'How many Rukus are there in Surah Al-Baqarah?',
     answer: '40',
     options: [
@@ -122,7 +122,7 @@ const questions = [
     ]
 },
 {
-    numb: 212,
+    numb: 12,
     question: 'Which was the first institution of Islam?',
     answer: 'Suffah',
     options: [
@@ -133,7 +133,7 @@ const questions = [
     ]
 },
 {
-    numb: 213,
+    numb: 13,
     question: 'How many sunnah in the 4 faraiz of wudu/Abulution?',
     answer: '13',
     options: [
@@ -144,7 +144,7 @@ const questions = [
     ]
 },
 {
-    numb: 214,
+    numb: 14,
     question: 'Battle of Qadisiya was fought against the Persians in ____ A.D.',
     answer: '636 AD',
     options: [
@@ -155,7 +155,7 @@ const questions = [
     ]
 },
 {
-    numb: 215,
+    numb: 15,
     question: 'The first meal in Jannah will be?',
     answer: 'Fish Liver',
     options: [
@@ -166,7 +166,7 @@ const questions = [
     ]
 },
 {
-    numb: 216,
+    numb: 16,
     question: 'Tafseer al Quran al Azeem was written by?',
     answer: 'Ismail bin Kathir (Ibn Al Athir)',
     options: [
@@ -177,7 +177,7 @@ const questions = [
     ]
 },
 {
-    numb: 217,
+    numb: 17,
     question: 'Hazrat Ubaidah bin al-Jarrah had the title of?',
     answer: 'Ameen-ul-Ummat',
     options: [
@@ -188,7 +188,7 @@ const questions = [
     ]
 },
 {
-    numb: 218,
+    numb: 18,
     question: 'How many Verses in surah “An Nisa”?',
     answer: '176',
     options: [
@@ -199,7 +199,7 @@ const questions = [
     ]
 },
 {
-    numb: 219,
+    numb: 19,
     question: 'Who established the foundation of Umayyad dynasty?',
     answer: 'Hazrat Ameer Muawiya RA',
     options: [
@@ -210,7 +210,7 @@ const questions = [
     ]
 },
 {
-    numb: 220,
+    numb: 20,
     question: 'Who was first preacher of Islam appointed by Hazrat Muhammad (S.A.W) for the people of Madina?',
     answer: 'Hazrat Musab ibn Umair (RA)',
     options: [
@@ -221,7 +221,7 @@ const questions = [
     ]
 },
 {
-    numb: 221,
+    numb: 21,
     question: 'In which Surah of the Holy Quran, the word “Khatimun Nabiyen” is mentioned?',
     answer: 'Al Ahzab',
     options: [
@@ -232,7 +232,7 @@ const questions = [
     ]
 },
 {
-    numb: 222,
+    numb: 22,
     question: '“Dua e Qunoot” is recited in ____ prayer?',
     answer: 'Witr',
     options: [
@@ -243,7 +243,7 @@ const questions = [
     ]
 },
 {
-    numb: 223,
+    numb: 23,
     question: 'Current Hijri Year is ____?',
     answer: '1442 AH',
     options: [
@@ -254,7 +254,7 @@ const questions = [
     ]
 },
 {
-    numb: 224,
+    numb: 24,
     question: 'Which Surah of Holy Quran throws light on the Halal and Haram of sacrificial animals?',
     answer: 'Surah Al-Ma’idah',
     options: [
@@ -265,7 +265,7 @@ const questions = [
     ]
 },
 {
-    numb: 225,
+    numb: 25,
     question: 'How many times, the word “Allah”, is repeated in the Holy Quran?',
     answer: '2698',
     options: [
@@ -276,7 +276,7 @@ const questions = [
     ]
 },
 {
-    numb: 226,
+    numb: 26,
     question: 'Who Translated Holy Quran in Persian?',
     answer: 'Shah Wali Ullah',
     options: [
@@ -287,7 +287,7 @@ const questions = [
     ]
 },
 {
-    numb: 227,
+    numb: 27,
     question: 'Who was called as kidnapper of the scholars?',
     answer: 'Mahmood Ghaznavi',
     options: [
@@ -298,7 +298,7 @@ const questions = [
     ]
 },
 {
-    numb: 228,
+    numb: 28,
     question: 'The order of appearance of Surah Al-Kahf in the Holy Quran is?',
     answer: '18',
     options: [
@@ -309,7 +309,7 @@ const questions = [
     ]
 },
 {
-    numb: 229,
+    numb: 29,
     question: 'Hazrat Asma (RA), the daughter of Hazrat Abu Bakr (RA), got married to?',
     answer: 'Hazrat Zubair Ibn al-Awam(RA)',
     options: [
@@ -320,7 +320,7 @@ const questions = [
     ]
 },
 {
-    numb: 230,
+    numb: 30,
     question: 'Which Prophet earned his living by making wallets?',
     answer: 'Hazrat Suilaiman (AS)',
     options: [
