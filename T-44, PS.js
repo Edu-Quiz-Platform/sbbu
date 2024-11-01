@@ -1,7 +1,7 @@
 // Array of questions with options and correct answers
 const questions = [
   {
-    "numb": 271,
+    "numb": 1,
     "question": 'Sindhi language is based on ____ ?',
     "answer": 'Arabic',
     "options": [
@@ -12,7 +12,7 @@ const questions = [
     ]
   },
   {
-    "numb": 272,
+    "numb": 2,
     "question": 'The ____ Motorway connects the cities of Hyderabad and Karachi in the Sindh province of Pakistan?',
     "answer": 'M-9 Motorway',
     "options": [
@@ -23,7 +23,7 @@ const questions = [
     ]
   },
   {
-    "numb": 273,
+    "numb": 3,
     "question": 'Moenjodaro means ____ ?',
     "answer": 'Mound of the Dead',
     "options": [
@@ -34,7 +34,7 @@ const questions = [
     ]
   },
   {
-    "numb": 274,
+    "numb": 4,
     "question": 'Malakhra is a traditional game of ____ ?',
     "answer": 'Sindh',
     "options": [
@@ -45,7 +45,7 @@ const questions = [
     ]
   },
   {
-    "numb": 275,
+    "numb": 5,
     "question": 'Oldest mountains of the world are present in India and youngest mountain of the world are present in?',
     "answer": 'Pakistan',
     "options": [
@@ -56,7 +56,7 @@ const questions = [
     ]
   },
   {
-    "numb": 276,
+    "numb": 6,
     "question": 'Nanga Parbat is ranked as the ____ highest mountain peak of the world?',
     "answer": '9th',
     "options": [
@@ -67,7 +67,7 @@ const questions = [
     ]
   },
   {
-    "numb": 277,
+    "numb": 7,
     "question": 'The height of Himalaya range increases as it moves from?',
     "answer": 'South to North',
     "options": [
@@ -78,7 +78,7 @@ const questions = [
     ]
   },
   {
-    "numb": 278,
+    "numb": 8,
     "question": 'What is the height of Sakasar peak?',
     "answer": '1500 meters',
     "options": [
@@ -89,7 +89,7 @@ const questions = [
     ]
   },
   {
-    "numb": 279,
+    "numb": 9,
     "question": 'Which range separates Baluchistan Plateau from Afghanistan?',
     "answer": 'Chaghi',
     "options": [
@@ -100,7 +100,7 @@ const questions = [
     ]
   },
   {
-    "numb": 280,
+    "numb": 10,
     "question": 'The Proposed Margalla hills tunnel project connects Islamabad with which city?',
     "answer": 'Haripur',
     "options": [
@@ -111,7 +111,7 @@ const questions = [
     ]
   },
   {
-    "numb": 281,
+    "numb": 11,
     "question": 'Height of Islamabad from sea level is ____?',
     "answer": '1700 ft',
     "options": [
@@ -122,7 +122,7 @@ const questions = [
     ]
   },
   {
-    "numb": 282,
+    "numb": 12,
     "question": 'Regional Languages of Kashmir are ____?',
     "answer": 'Kashmiri',
     "options": [
@@ -133,7 +133,7 @@ const questions = [
     ]
   },
   {
-    "numb": 283,
+    "numb": 13,
     "question": 'Who is the first Chief Minister of Gilgit Balitistan?',
     "answer": 'Syed Mehdi Shah',
     "options": [
@@ -144,7 +144,7 @@ const questions = [
     ]
   },
   {
-    "numb": 284,
+    "numb": 14,
     "question": 'Who was the first governor general of Pakistan?',
     "answer": 'Quaid e Azam Muhammad Ali Jinnah',
     "options": [
@@ -155,7 +155,7 @@ const questions = [
     ]
   },
   {
-    "numb": 285,
+    "numb": 15,
     "question": 'Who chose the name of Pakistan?',
     "answer": 'Chaudry Rehmat Ali',
     "options": [
@@ -166,7 +166,7 @@ const questions = [
     ]
   },
   {
-    "numb": 286,
+    "numb": 16,
     "question": 'Till now, how many Chief of Army Staff (COAS) of Pakistan are selected from Baloch Regiment?',
     "answer": 'Four',
     "options": [
@@ -177,7 +177,7 @@ const questions = [
     ]
   },
   {
-    "numb": 287,
+    "numb": 17,
     "question": 'Longest serving prime minister of Pakistan?',
     "answer": 'Liaquat Ali Khan',
     "options": [
@@ -188,7 +188,7 @@ const questions = [
     ]
   },
   {
-    "numb": 288,
+    "numb": 18,
     "question": 'Which Nursery School did Benazir Bhutto attend?',
     "answer": 'Lady Jennings Nursery School',
     "options": [
@@ -199,7 +199,7 @@ const questions = [
     ]
   },
   {
-    "numb": 289,
+    "numb": 19,
     "question": 'What official name was given to Pakistan in 1956 constitution?',
     "answer": 'Islamic Republic of Pakistan',
     "options": [
@@ -210,7 +210,7 @@ const questions = [
     ]
   },
   {
-    "numb": 290,
+    "numb": 20,
     "question": 'When Mr. Z.A. Bhutto launched a new constitution in the country?',
     "answer": '14th August 1973',
     "options": [
@@ -221,7 +221,7 @@ const questions = [
     ]
   },
   {
-    "numb": 291,
+    "numb": 21,
     "question": 'How many articles were there in 1962 constitution?',
     "answer": '250 Articles',
     "options": [
@@ -232,7 +232,7 @@ const questions = [
     ]
   },
   {
-    "numb": 292,
+    "numb": 22,
     "question": 'Which is the national bird of Pakistan?',
     "answer": 'Chakor',
     "options": [
@@ -243,7 +243,7 @@ const questions = [
     ]
   },
   {
-    "numb": 293,
+    "numb": 23,
     "question": 'Which state was attacked by India on 11th September 1948?',
     "answer": 'State of Hyderabad Daccan',
     "options": [
@@ -254,7 +254,7 @@ const questions = [
     ]
   },
   {
-    "numb": 294,
+    "numb": 24,
     "question": 'The highest peak of Salt Range is?',
     "answer": 'Skaser',
     "options": [
@@ -265,7 +265,7 @@ const questions = [
     ]
   },
   {
-    "numb": 295,
+    "numb": 25,
     "question": 'ICT stands for?',
     "answer": 'Islamabad Capital Territory',
     "options": [
@@ -276,7 +276,7 @@ const questions = [
     ]
   },
   {
-    "numb": 296,
+    "numb": 26,
     "question": 'The Muslims came to Sindh in 712 A.D. under the leadership of?',
     "answer": 'Muhammad Bin Qasim',
     "options": [
@@ -287,7 +287,7 @@ const questions = [
     ]
   },
   {
-    "numb": 297,
+    "numb": 27,
     "question": 'The name of poet whose collection of poetry is called “Shah jo Risalu”?',
     "answer": 'Shah Abdul Latif Bhatai',
     "options": [
@@ -298,7 +298,7 @@ const questions = [
     ]
   },
   {
-    "numb": 298,
+    "numb": 28,
     "question": 'Where is Warsak Dam of Pakistan situated?',
     "answer": 'Khyber Pakhtunkhwa',
     "options": [
@@ -309,7 +309,7 @@ const questions = [
     ]
   },
   {
-    "numb": 299,
+    "numb": 29,
     "question": 'Mirpur is a famous city of?',
     "answer": 'Azad Kashmir',
     "options": [
@@ -320,7 +320,7 @@ const questions = [
     ]
   },
   {
-    "numb": 300,
+    "numb": 30,
     "question": 'Paery Cane was the first C-in-C of ____. ',
     "answer": 'Pakistan Air Force',
     "options": [
