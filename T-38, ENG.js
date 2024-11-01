@@ -1,7 +1,7 @@
 // Array of questions with options and correct answers
 const questions = [
 {
-    numb: 51,
+    numb: 1,
     question: 'Antonym of "Applicable" is ____?',
     answer: 'Irrelevant',
     options: [
@@ -12,7 +12,7 @@ const questions = [
     ]
   },
   {
-    numb: 52,
+    numb: 2,
     question: 'Antonym of "Abate" is ____?',
     answer: 'All of above',
     options: [
@@ -23,7 +23,7 @@ const questions = [
     ]
   },
   {
-    numb: 53,
+    numb: 3,
     question: 'Antonym of "Acerbity" is ____?',
     answer: 'All of these',
     options: [
@@ -34,7 +34,7 @@ const questions = [
     ]
   },
   {
-    numb: 54,
+    numb: 4,
     question: 'Which one of the following is antonym of "Flummox" while others are synonyms?',
     answer: 'Enlighten',
     options: [
@@ -45,7 +45,7 @@ const questions = [
     ]
   },
   {
-    numb: 55,
+    numb: 5,
     question: 'Antonym of "REVEALED" is ____?',
     answer: 'Concealed',
     options: [
@@ -56,7 +56,7 @@ const questions = [
     ]
   },
   {
-    numb: 56,
+    numb: 6,
     question: 'Antonym of "Friend" is ____?',
     answer: 'Enemy',
     options: [
@@ -67,7 +67,7 @@ const questions = [
     ]
   },
   {
-    numb: 57,
+    numb: 7,
     question: 'Antonym of "GUMPTION" is ____?',
     answer: 'Apathy',
     options: [
@@ -78,7 +78,7 @@ const questions = [
     ]
   },
   {
-    numb: 58,
+    numb: 8,
     question: 'Antonym of "PRODIGAL" is ____?',
     answer: 'Thrifty',
     options: [
@@ -89,7 +89,7 @@ const questions = [
     ]
   },
   {
-    numb: 59,
+    numb: 9,
     question: 'Antonym of "NIGGARDLY" is ____?',
     answer: 'Generous',
     options: [
@@ -100,7 +100,7 @@ const questions = [
     ]
   },
   {
-    numb: 60,
+    numb: 10,
     question: 'Antonym of "Elastic" is ____?',
     answer: 'Rigid',
     options: [
@@ -111,7 +111,7 @@ const questions = [
     ]
   },
   {
-    numb: 61,
+    numb: 11,
     question: 'Antonym of "famous" is ____.',
     answer: 'Obscure',
     options: [
@@ -122,7 +122,7 @@ const questions = [
     ]
   },
   {
-    numb: 62,
+    numb: 12,
     question: 'Antonym of "impecunious" is ____.',
     answer: 'Wealthy',
     options: [
@@ -133,7 +133,7 @@ const questions = [
     ]
   },
   {
-    numb: 63,
+    numb: 13,
     question: 'Antonym of "bemuse" is ____?',
     answer: 'Clarify',
     options: [
@@ -144,7 +144,7 @@ const questions = [
     ]
   },
   {
-    numb: 64,
+    numb: 14,
     question: 'Antonym of "Incur" is ____?',
     answer: 'Avoid',
     options: [
@@ -155,7 +155,7 @@ const questions = [
     ]
   },
   {
-    numb: 65,
+    numb: 15,
     question: 'Antonym of "BRUSQUE" is ____?',
     answer: 'Courteous',
     options: [
@@ -166,7 +166,7 @@ const questions = [
     ]
   },
   {
-    numb: 66,
+    numb: 16,
     question: 'Antonym of "Aberrant" is ____?',
     answer: 'Both a&b',
     options: [
@@ -177,7 +177,7 @@ const questions = [
     ]
   },
   {
-    numb: 67,
+    numb: 17,
     question: 'Antonym of "Addendum" is ____?',
     answer: 'All of above',
     options: [
@@ -188,7 +188,7 @@ const questions = [
     ]
   },
   {
-    numb: 68,
+    numb: 18,
     question: 'Which one of the following is antonym of "IMPOVERISHED" while others are synonyms?',
     answer: 'Wealthy',
     options: [
@@ -199,7 +199,7 @@ const questions = [
     ]
   },
   {
-    numb: 69,
+    numb: 19,
     question: 'Antonym of "PATHOLOGICAL" is ____?',
     answer: 'Healthy',
     options: [
@@ -210,7 +210,7 @@ const questions = [
     ]
   },
   {
-    numb: 70,
+    numb: 20,
     question: 'Antonym of "Apposite" is ____?',
     answer: 'Inappropriate',
     options: [
@@ -221,7 +221,7 @@ const questions = [
     ]
   },
   {
-    numb: 71,
+    numb: 21,
     question: 'Antonym of "PIQUE" is ____?',
     answer: 'Joy',
     options: [
@@ -232,7 +232,7 @@ const questions = [
     ]
   },
   {
-    numb: 72,
+    numb: 22,
     question: 'Antonym of "NEBULOUS" is ____?',
     answer: 'Apparent',
     options: [
@@ -243,7 +243,7 @@ const questions = [
     ]
   },
   {
-    numb: 73,
+    numb: 23,
     question: 'Antonym of "GARBLED" is ____?',
     answer: 'Unscramble',
     options: [
@@ -254,7 +254,7 @@ const questions = [
     ]
   },
   {
-    numb: 74,
+    numb: 24,
     question: 'Antonym of "Harmonious" is ____?',
     answer: 'Hostile',
     options: [
@@ -265,7 +265,7 @@ const questions = [
     ]
   },
   {
-    numb: 75,
+    numb: 25,
     question: 'Antonym of "labor" is ____.',
     answer: 'Rest',
     options: [
@@ -276,7 +276,7 @@ const questions = [
     ]
   },
   {
-    numb: 76,
+    numb: 26,
     question: 'Antonym of "quiescent" is ____.',
     answer: 'Active',
     options: [
@@ -287,7 +287,7 @@ const questions = [
     ]
   },
   {
-    numb: 77,
+    numb: 27,
     question: 'Antonym of "accelerate" is ____?',
     answer: 'Delay',
     options: [
@@ -298,7 +298,7 @@ const questions = [
     ]
   },
   {
-    numb: 78,
+    numb: 28,
     question: 'Antonym of "Provoke" is ____?',
     answer: 'Allay',
     options: [
@@ -309,7 +309,7 @@ const questions = [
     ]
   },
   {
-    numb: 79,
+    numb: 29,
     question: 'Antonym of "PATHOLOGICAL" is ____?',
     answer: 'Healthy',
     options: [
@@ -320,7 +320,7 @@ const questions = [
     ]
   },
   {
-    numb: 80,
+    numb: 30,
     question: 'Antonym of "Abject" is ____?',
     answer: 'All of above',
     options: [
