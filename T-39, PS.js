@@ -1,7 +1,7 @@
 // Array of questions with options and correct answers
 const questions = [
 {
-    numb: 241,
+    numb: 1,
     question: 'The Salt range is situated between rivers Soan and _____________?',
     answer: 'Jhelum',
     options: [
@@ -12,7 +12,7 @@ const questions = [
     ]
 },
 {
-    numb: 242,
+    numb: 2,
     question: 'What is the average height of Takhat-e-Sulaiman peak?',
     answer: '3300 meters',
     options: [
@@ -23,7 +23,7 @@ const questions = [
     ]
 },
 {
-    numb: 243,
+    numb: 3,
     question: 'What is the average height of Karakoram range?',
     answer: '7000 meters',
     options: [
@@ -34,7 +34,7 @@ const questions = [
     ]
 },
 {
-    numb: 244,
+    numb: 4,
     question: 'Gasherbrum I is also known as _____________?',
     answer: 'Hidden Peak',
     options: [
@@ -45,7 +45,7 @@ const questions = [
     ]
 },
 {
-    numb: 245,
+    numb: 5,
     question: 'Daman-e-Koh is located in ____________?',
     answer: 'Islamabad',
     options: [
@@ -56,7 +56,7 @@ const questions = [
     ]
 },
 {
-    numb: 246,
+    numb: 6,
     question: 'National Language of AJ&K is __________?',
     answer: 'Urdu',
     options: [
@@ -67,7 +67,7 @@ const questions = [
     ]
 },
 {
-    numb: 247,
+    numb: 7,
     question: 'Who was the first Women Governor of Gilgit Baltistan?',
     answer: 'Begum Shama Khalid',
     options: [
@@ -78,7 +78,7 @@ const questions = [
     ]
 },
 {
-    numb: 248,
+    numb: 8,
     question: 'The common value among the people of Pakistan is?',
     answer: 'Islam',
     options: [
@@ -89,7 +89,7 @@ const questions = [
     ]
 },
 {
-    numb: 249,
+    numb: 9,
     question: 'The National Anthem of Pakistan is written by?',
     answer: 'Hafiz Jalandhri',
     options: [
@@ -100,7 +100,7 @@ const questions = [
     ]
 },
 {
-    numb: 250,
+    numb: 10,
     question: 'General Qamar Javed Bajwa took oath as Army Chief on __________?',
     answer: '29 November 2016',
     options: [
@@ -111,7 +111,7 @@ const questions = [
     ]
 },
 {
-    numb: 251,
+    numb: 11,
     question: 'In _____ the Shah Jahan Mosque was built during the Mughal period?',
     answer: 'Thatha',
     options: [
@@ -122,7 +122,7 @@ const questions = [
     ]
 },
 {
-    numb: 252,
+    numb: 12,
     question: 'Benazir Bhutto was the chairman of which political party?',
     answer: 'PPP',
     options: [
@@ -133,7 +133,7 @@ const questions = [
     ]
 },
 {
-    numb: 253,
+    numb: 13,
     question: 'Who was the Prime Minister of Pakistan during the enforcement of the first constitution?',
     answer: 'Choudhry Mohammad Ali',
     options: [
@@ -144,7 +144,7 @@ const questions = [
     ]
 },
 {
-    numb: 254,
+    numb: 14,
     question: 'Who abrogated the 1962 constitution and became CMLA?',
     answer: 'Gen Yahya Khan',
     options: [
@@ -155,7 +155,7 @@ const questions = [
     ]
 },
 {
-    numb: 255,
+    numb: 15,
     question: 'How many articles were there in the constitution of 1956?',
     answer: '234 Articles',
     options: [
@@ -166,7 +166,7 @@ const questions = [
     ]
 },
 {
-    numb: 256,
+    numb: 16,
     question: 'Which is the national flower of Pakistan?',
     answer: 'Jasmine',
     options: [
@@ -177,7 +177,7 @@ const questions = [
     ]
 },
 {
-    numb: 257,
+    numb: 17,
     question: 'At the time of Independence which community was in majority in the state of Kashmir?',
     answer: 'Muslim',
     options: [
@@ -188,7 +188,7 @@ const questions = [
     ]
 },
 {
-    numb: 258,
+    numb: 18,
     question: 'Which pass connects Pakistan with Afghanistan?',
     answer: 'Khyber Pass',
     options: [
@@ -199,7 +199,7 @@ const questions = [
     ]
 },
 {
-    numb: 259,
+    numb: 19,
     question: 'The 1962 Constitution of Pakistan was passed during the regime of?',
     answer: 'Ayoub Khan',
     options: [
@@ -210,7 +210,7 @@ const questions = [
     ]
 },
 {
-    numb: 260,
+    numb: 20,
     question: 'Sadqain is famous for?',
     answer: 'A & B',
     options: [
@@ -221,7 +221,7 @@ const questions = [
     ]
 },
 {
-    numb: 261,
+    numb: 21,
     question: 'Who was the hero of Pak India 1965 war?',
     answer: 'Major Raja Aziz Bhatti',
     options: [
@@ -232,7 +232,7 @@ const questions = [
     ]
 },
 {
-    numb: 262,
+    numb: 22,
     question: 'National code of Pakistan is?',
     answer: 'PK',
     options: [
@@ -243,7 +243,7 @@ const questions = [
     ]
 },
 {
-    numb: 263,
+    numb: 23,
     question: 'Who was the first woman Governor of State Bank of Pakistan?',
     answer: 'Dr Shamshad Akhter',
     options: [
@@ -254,7 +254,7 @@ const questions = [
     ]
 },
 {
-    numb: 264,
+    numb: 24,
     question: 'Frank Meseri was the first C-in-C of ____.',
     answer: 'Pak Army',
     options: [
@@ -265,7 +265,7 @@ const questions = [
     ]
 },
 {
-    numb: 265,
+    numb: 25,
     question: 'The range of Hatf-1 is ____?',
     answer: '100km',
     options: [
@@ -276,7 +276,7 @@ const questions = [
     ]
 },
 {
-    numb: 266,
+    numb: 26,
     question: 'The largest cantonment of Pakistan army is located in?',
     answer: 'Kharian',
     options: [
@@ -287,7 +287,7 @@ const questions = [
     ]
 },
 {
-    numb: 267,
+    numb: 27,
     question: 'On which of the following date Captain Karnal Sher Khan was martyred at Kargil?',
     answer: '5th July 1999',
     options: [
@@ -298,7 +298,7 @@ const questions = [
     ]
 },
 {
-    numb: 268,
+    numb: 28,
     question: 'The capital of KPK is ____?',
     answer: 'Peshawar',
     options: [
@@ -309,7 +309,7 @@ const questions = [
     ]
 },
 {
-    numb: 269,
+    numb: 29,
     question: 'Jamrud Fort is located near ____?',
     answer: 'Peshawar',
     options: [
@@ -320,7 +320,7 @@ const questions = [
     ]
 },
 {
-    numb: 270,
+    numb: 30,
     question: 'The local languages of KPK are?',
     answer: 'All of them',
     options: [
