@@ -1,25 +1,30 @@
-// JavaScript to handle the modal
-        window.onload = function() {
-            var modal = document.getElementById("myModal");
-            var span = document.getElementsByClassName("close")[0];
-            var closeBtn = document.getElementById("closeBtn");
+// Get the modal
+var modal = document.getElementById("mock-test-modal");
 
-            // Show the modal
-            modal.style.display = "block";
+// Get the button that opens the modal
+var btn = document.getElementById("join-team-button");
 
-            // Close the modal when the user clicks on <span> (x) or Close button
-            span.onclick = function() {
-                modal.style.display = "none";
-            }
+// Get the <span> element that closes the modal
+var span = document.getElementsByClassName("close")[0];
 
-            closeBtn.onclick = function() {
-                modal.style.display = "none";
-            }
+// When the user clicks the button, open the modal 
+btn.onclick = function() {
+    modal.style.display = "block";
+}
 
-            // Close the modal when the user clicks anywhere outside of the modal
-            window.onclick = function(event) {
-                if (event.target == modal) {
-                    modal.style.display = "none";
-                }
-            }
-        };
+// When the user clicks on <span> (x), close the modal
+span.onclick = function() {
+    modal.style.display = "none";
+}
+
+// When the user clicks anywhere outside of the modal, close it
+window.onclick = function(event) {
+    if (event.target == modal) {
+        modal.style.display = "none";
+    }
+}
+
+// Optionally handle the Cancel button inside the modal
+document.querySelector(".cancel-button").onclick = function() {
+    modal.style.display = "none";
+}
