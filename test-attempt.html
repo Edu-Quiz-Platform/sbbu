@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>    
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Attempt Test</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            line-height: 1.6;
+            background-color: #f4f7f9;
+            color: #333;
+        }        
+
+        h1 {
+            color: #007BFF;
+            text-align: center;
+            margin-bottom: 20px;
+        }
+
+        .countdown {
+            font-size: 24px;
+            text-align: center;
+            margin: 20px 0;
+            color: #dc3545; /* Red color for urgency */
+        }
+
+        .info-section {
+            margin-top: 20px;
+            background-color: #ffffff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+
+        .button {
+            display: inline-block;
+            padding: 10px 20px;
+            margin-top: 20px;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+            transition: background-color 0.3s ease;
+            text-align: center;
+        }
+
+        .button-back {
+            background-color: #28a745; /* Green for back */
+        }
+
+        .button-back:hover {
+            background-color: #218838;
+        }
+
+        .button-submit {
+            background-color: #007BFF; /* Blue for submit */
+        }
+
+        .button-submit:hover {
+            background-color: #0056b3;
+        }
+
+        /* Responsive Design */
+        @media (max-width: 600px) {
+            body {
+                margin: 10px;
+            }
+            .info-section {
+                padding: 15px;
+            }
+            .button {
+                width: 100%;
+                box-sizing: border-box;
+            }
+        }
+    </style>
+    <script>
+        // Set the date for the countdown (test date/time)
+        const testDate = new Date("2024-11-10T07:00:00").getTime();
+        
+        const countdownFunction = setInterval(function() {
+            const now = new Date().getTime();
+            const distance = testDate - now;
+
+            // Calculate time remaining
+            const days = Math.floor(distance / (1000 * 60 * 60 * 24));
+            const hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+            const minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+            const seconds = Math.floor((distance % (1000 * 60)) / 1000);
+
+            // Display the result in the countdown element
+            document.getElementById("countdown").innerHTML = 
+                days + "d " + hours + "h " + minutes + "m " + seconds + "s ";
+
+            // If the countdown is finished, display a message
+            if (distance < 0) {
+                clearInterval(countdownFunction);
+                document.getElementById("countdown").innerHTML = "Time's up! Please register quickly!";
+                document.getElementById("registration-message").innerHTML = "Registration is now closed.";
+            }
+        }, 1000);
+    </script>
+</head>
+<body>
+    <h1>Remaining Time</h1>
+
+    <div class="countdown" id="countdown">Loading countdown...</div>
+
+    <div class="info-section">
+        <p><strong>Hurry Up!</strong> Complete your registration before time runs out!</p>
+        <p>Make sure to register quickly to avoid missing the test. The time is ticking away!</p>
+        <p id="registration-message">You can register until the countdown reaches zero!</p>
+        <!-- <p>Click the button below to start your test once you are ready.</p> -->
+        <a class="button button-submit" href="#">First Register Your Self</a> <!-- Link to start test functionality -->
+    </div>
+
+    <div style="text-align: center; margin-top: 20px;">
+        <a class="button button-back" href="test-info.html">Back to Test Information</a>
+    </div>
+</body>
+</html>

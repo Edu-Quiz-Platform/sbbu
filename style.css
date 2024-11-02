@@ -184,6 +184,72 @@ header img.logo {
             margin-top: 10px;
             font-weight: bold;
         }
+        
+        /* Style for Join Team Button */
+/* Container for vertical button */
+.vertical-button-container {
+    position: fixed; /* Fix position to the side of the screen */
+    right: 10px; /* Position from the right */
+    top: 50%; /* Center vertically */
+    transform: translateY(-50%); /* Adjust for vertical centering */
+}
+
+/* Style for Join Team Button */
+#join-team-button {
+    writing-mode: vertical-rl; /* Make text vertical */
+    transform: rotate(180deg); /* Rotate text to read top-to-bottom */
+    background-color: #007bff; /* Button background color */
+    color: white; /* Text color */
+    border: none; /* Remove border */
+    padding: 10px 20px; /* Padding for size */
+    cursor: pointer; /* Change cursor to pointer */
+    border-radius: 5px; /* Rounded corners */
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2); /* Add shadow */
+}
+
+/* Hover Effect */
+#join-team-button:hover {
+    background-color: #0056b3; /* Darker blue on hover */
+}
+
+/* Modal Styles */
+.modal {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 1001; /* Sit on top */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgba(0, 0, 0, 0.4); /* Black w/ opacity */
+}
+
+.modal-content {
+    background-color: #fefefe;
+    margin: 15% auto; /* Center modal */
+    padding: 20px;
+    border: 1px solid #888;
+    width: 80%; /* Could be more or less */
+}
+
+.close {
+    color: #aaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.close:hover,
+.close:focus {
+    color: red;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+
+
+
         /* Main Content Section */
         .about-content {
             max-width: 95%;
