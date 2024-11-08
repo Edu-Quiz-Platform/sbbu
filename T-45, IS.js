@@ -58,7 +58,7 @@ const questions = [
   {
     "numb": 6,
     "question": 'How many types of Tawaf are there ____?',
-    "answer": '7',
+    "answer": 'Seven',
     "options": [
       'Four',
       'Three',
