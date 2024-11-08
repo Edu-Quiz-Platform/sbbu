@@ -190,7 +190,7 @@ header img.logo {
 .vertical-button-container {
     position: fixed; /* Fix position to the side of the screen */
     right: 10px; /* Position from the right */
-    top: 50%; /* Center vertically */
+    top: 41%; /* Center vertically */
     transform: translateY(-50%); /* Adjust for vertical centering */
 }
 
@@ -211,6 +211,27 @@ header img.logo {
 #join-team-button:hover {
     background-color: #0056b3; /* Darker blue on hover */
 }
+.social-icon.mcqs-correction {
+    display: flex;
+    align-items: center;
+    background-color: #4CAF50; /* Green background */
+    color: white; /* White text */
+    padding: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.social-icon.mcqs-correction input[type="checkbox"] {
+    margin-right: 8px;
+    cursor: pointer;
+}
+
+.social-icon.mcqs-correction:hover {
+    background-color: #45a049; /* Darker green on hover */
+}
+
 
 /* Modal Styles */
 .modal {
