@@ -211,6 +211,168 @@ header img.logo {
 #join-team-button:hover {
     background-color: #0056b3; /* Darker blue on hover */
 }
+ 
+/* Reviews Section */
+.reviews-section {
+    max-width: 90%;
+    margin: 40px auto;
+    padding: 20px;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.reviews-section h2 {
+    color: #007bff;
+    font-size: 2rem;
+    text-align: center;
+    margin-bottom: 20px;
+    border-bottom: 2px solid #007bff;
+    display: inline-block;
+    padding-bottom: 5px;
+}
+
+.reviews-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.review-box {
+    flex: 1 1 calc(33.333% - 20px); /* 3 items per row on large screens */
+    background-color: #f9f9f9;
+    border: 2px solid #007bff;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.review-box:hover {
+    transform: scale(1.05);
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+}
+
+.review-box h3 {
+    color: #004d99;
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+}
+
+.review-box p {
+    color: #666;
+    font-size: 1rem;
+    margin-bottom: 10px;
+    line-height: 1.5;
+}
+
+.review-box .rating {
+    margin-top: 10px;
+}
+
+.review-box .rating i {
+    color: #ffd700; /* Star color */
+    margin-right: 5px;
+    font-size: 1.2rem;
+}
+/* Button Styling */
+.reviews-button {
+    text-align: center;
+    margin-top: 30px;
+}
+
+.reviews-button .btn {
+    background-color: #007bff;
+    color: white;
+    padding: 10px 20px;
+    font-size: 1.1rem;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.reviews-button .btn:hover {
+    background-color: #0056b3;
+}
+/* Basic styling for the search bar */
+        .search-container {
+            display: flex;
+            justify-content: center;
+            margin: 20px 0;
+        }
+        
+        /* Search Box Container */
+.search-container {
+    position: relative;
+    width: 100%;
+    max-width: 400px;
+    margin: 20px auto;
+}
+
+#search-box {
+    width: 100%;
+    padding: 10px 15px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    outline: none;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    transition: border-color 0.3s;
+}
+
+#search-box:focus {
+    border-color: #007bff;
+    box-shadow: 0 2px 8px rgba(0, 123, 255, 0.3);
+}
+
+/* Suggestions Box */
+#suggestions {
+    position: absolute;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    max-height: 150px;
+    overflow-y: auto;
+    width: 100%;
+    z-index: 10;
+}
+
+.suggestion {
+    padding: 8px 12px;
+    cursor: pointer;
+}
+
+.suggestion:hover {
+    background-color: #f0f0f0;
+}
+
+
+
+        /* Responsive design */
+        @media (max-width: 768px) {
+            .search-box {
+                width: 90%;
+            }
+        }
+
+
+/* Responsive Design */
+@media(max-width: 1024px) {
+    .review-box {
+        flex: 1 1 calc(50% - 20px); /* 2 items per row on medium screens */
+    }
+}
+
+@media(max-width: 768px) {
+    .review-box {
+        flex: 1 1 100%; /* 1 item per row on small screens */
+    }
+}
+
+
 .social-icon.mcqs-correction {
     display: flex;
     align-items: center;
