@@ -13,7 +13,9 @@ document.addEventListener('DOMContentLoaded', () => {
         "Adina",
         "Nida Dahri",
         "Younis",
-        "Asma"
+        "Asma",
+        "Zulekha Zardari",
+        "Khanzada"
     ];
 
     // Filter reviews based on the search query
