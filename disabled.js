@@ -37,8 +37,8 @@ document.addEventListener('selectstart', function(e) {
 });
 
 /* Current Year */
-/* const year = new Date().getFullYear();
-document.getElementById('year').textContent = year; */
+const year = new Date().getFullYear();
+document.getElementById('year').textContent = year;
 
 /* Show Search Text - Displays search message, then redirects */
 function showSearchText() {
